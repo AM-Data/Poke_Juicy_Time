@@ -1,0 +1,983 @@
+
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:03:04</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 14:25:47</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€12,54</bets>
+  <wins>€17,34</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€109,15</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802203981">
+  <general>
+   <startdate>2023-08-11 14:25:47</startdate>
+   <players>
+    <player dealer="0" bet="€2" seat="1" chips="€100" name="Player 1" win="€0"/>
+    <player dealer="0" bet="€5,15" seat="3" chips="€68,92" name="Player 3" win="€4,37"/>
+    <player dealer="1" bet="€0" seat="5" chips="€89,27" name="Player 5" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="6" chips="€100" name="Player 6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="Player 6"/>
+   <action no="2" type="2" sum="€1" player="Player 1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action no="3" type="23" sum="€2" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action no="4" type="0" sum="€0" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action no="5" type="0" sum="€0" player="Player 6"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action no="6" type="3" sum="€1" player="Player 1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 C10 H9</cards>
+   <action no="7" type="4" sum="€0" player="Player 1"/>
+   <action no="8" type="5" sum="€3,15" player="Player 3"/>
+   <action no="9" type="0" sum="€0" player="Player 1"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:03:04</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 14:25:47</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€12,54</bets>
+  <wins>€17,34</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€109,15</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204032">
+  <general>
+   <startdate>2023-08-11 14:26:06</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="1" chips="€100" name="Player 1" win="€0"/>
+    <player dealer="0" bet="€1" seat="3" chips="€71,29" name="Player 3" win="€0"/>
+    <player dealer="0" bet="€0" seat="5" chips="€89,27" name="Player 5" win="€0"/>
+    <player dealer="1" bet="€2,50" seat="6" chips="€100" name="Player 6" win="€2,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="Player 1"/>
+   <action no="2" type="2" sum="€1" player="Player 3"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action no="3" type="0" sum="€0" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action no="4" type="23" sum="€2,50" player="Player 6"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action no="5" type="0" sum="€0" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action no="6" type="0" sum="€0" player="Player 3"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:03:04</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 14:25:47</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€12,54</bets>
+  <wins>€17,34</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€109,15</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204055">
+  <general>
+   <startdate>2023-08-11 14:26:18</startdate>
+   <players>
+    <player dealer="1" bet="€2,50" seat="1" chips="€100" name="Player 1" win="€0"/>
+    <player dealer="0" bet="€10" seat="3" chips="€70,29" name="Player 3" win="€6"/>
+    <player dealer="0" bet="€1" seat="5" chips="€89,27" name="Player 5" win="€0"/>
+    <player dealer="0" bet="€0" seat="6" chips="€101,50" name="Player 6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="Player 3"/>
+   <action no="2" type="2" sum="€1" player="Player 5"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action no="3" type="0" sum="€0" player="Player 6"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action no="4" type="23" sum="€2,50" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action no="5" type="23" sum="€10" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action no="6" type="0" sum="€0" player="Player 5"/>
+   <action no="7" type="0" sum="€0" player="Player 1"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:03:04</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 14:25:47</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€12,54</bets>
+  <wins>€17,34</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€109,15</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204108">
+  <general>
+   <startdate>2023-08-11 14:26:39</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€100" name="Player 1" win="€0"/>
+    <player dealer="1" bet="€0" seat="3" chips="€73,79" name="Player 3" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="5" chips="€88,27" name="Player 5" win="€0"/>
+    <player dealer="0" bet="€1" seat="6" chips="€101,50" name="Player 6" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="Player 5"/>
+   <action no="2" type="2" sum="€1" player="Player 6"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action no="3" type="0" sum="€0" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action no="4" type="0" sum="€0" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action no="5" type="0" sum="€0" player="Player 5"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:03:04</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 14:25:47</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€12,54</bets>
+  <wins>€17,34</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€109,15</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204142">
+  <general>
+   <startdate>2023-08-11 14:26:55</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€100" name="YPC2023" win="€0"/>
+    <player dealer="1" bet="€2,90" seat="5" chips="€87,77" name="AllOver" win="€2,50"/>
+    <player dealer="0" bet="€0,50" seat="6" chips="€102" name="SisuMisu" win="€0"/>
+    <player dealer="0" bet="€1" seat="10" chips="€100" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="SisuMisu"/>
+   <action no="2" type="2" sum="€1" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="YPC2023">X X</cards>
+   <action no="3" type="0" sum="€0" player="YPC2023"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="23" sum="€2,90" player="AllOver"/>
+   <cards type="Pocket" player="SisuMisu">X X</cards>
+   <action no="5" type="0" sum="€0" player="SisuMisu"/>
+   <cards type="Pocket" player="lllllllIlllllllI">H3 C5</cards>
+   <action no="6" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:03:04</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 14:25:47</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€12,54</bets>
+  <wins>€17,34</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€109,15</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204185">
+  <general>
+   <startdate>2023-08-11 14:27:13</startdate>
+   <players>
+    <player dealer="0" bet="€1" seat="1" chips="€100" name="YPC2023" win="€0"/>
+    <player dealer="0" bet="€2,90" seat="5" chips="€89,27" name="AllOver" win="€2,50"/>
+    <player dealer="1" bet="€0" seat="6" chips="€101,50" name="SisuMisu" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="10" chips="€100" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€1" player="YPC2023"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="23" sum="€2,90" player="AllOver"/>
+   <cards type="Pocket" player="SisuMisu">X X</cards>
+   <action no="4" type="0" sum="€0" player="SisuMisu"/>
+   <cards type="Pocket" player="lllllllIlllllllI">H2 C8</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="YPC2023">X X</cards>
+   <action no="6" type="0" sum="€0" player="YPC2023"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:03:04</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 14:25:47</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€12,54</bets>
+  <wins>€17,34</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€109,15</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204218">
+  <general>
+   <startdate>2023-08-11 14:27:28</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="1" chips="€100" name="YPC2023" win="€0"/>
+    <player dealer="0" bet="€5,69" seat="5" chips="€90,77" name="AllOver" win="€0"/>
+    <player dealer="0" bet="€0" seat="6" chips="€101,50" name="SisuMisu" win="€0"/>
+    <player dealer="1" bet="€8,54" seat="10" chips="€100" name="lllllllIlllllllI" win="€11,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="YPC2023"/>
+   <action no="2" type="2" sum="€1" player="AllOver"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SisuMisu">X X</cards>
+   <action no="3" type="0" sum="€0" player="SisuMisu"/>
+   <cards type="Pocket" player="lllllllIlllllllI">H10 C10</cards>
+   <action no="4" type="23" sum="€2,50" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="YPC2023">X X</cards>
+   <action no="5" type="0" sum="€0" player="YPC2023"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="3" sum="€1,50" player="AllOver"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 D6 C6</cards>
+   <action no="7" type="4" sum="€0" player="AllOver"/>
+   <action no="8" type="5" sum="€3,19" player="lllllllIlllllllI"/>
+   <action no="9" type="3" sum="€3,19" player="AllOver"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action no="10" type="4" sum="€0" player="AllOver"/>
+   <action no="11" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action no="12" type="4" sum="€0" player="AllOver"/>
+   <action no="13" type="5" sum="€2,85" player="lllllllIlllllllI"/>
+   <action no="14" type="0" sum="€0" player="AllOver"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:03:04</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 14:25:47</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€12,54</bets>
+  <wins>€17,34</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€109,15</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204306">
+  <general>
+   <startdate>2023-08-11 14:28:09</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="1" chips="€100" name="YPC2023" win="€0"/>
+    <player dealer="0" bet="€2,50" seat="5" chips="€85,08" name="AllOver" win="€0"/>
+    <player dealer="0" bet="€1" seat="6" chips="€101,50" name="SisuMisu" win="€0"/>
+    <player dealer="0" bet="€2,50" seat="10" chips="€105,83" name="lllllllIlllllllI" win="€5,82"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="AllOver"/>
+   <action no="2" type="2" sum="€1" player="SisuMisu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">C9 D9</cards>
+   <action no="3" type="23" sum="€2,50" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="YPC2023">X X</cards>
+   <action no="4" type="0" sum="€0" player="YPC2023"/>
+   <cards type="Pocket" player="AllOver">DJ DK</cards>
+   <action no="5" type="3" sum="€2" player="AllOver"/>
+   <cards type="Pocket" player="SisuMisu">X X</cards>
+   <action no="6" type="0" sum="€0" player="SisuMisu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 H6 CA</cards>
+   <action no="7" type="4" sum="€0" player="AllOver"/>
+   <action no="8" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action no="9" type="4" sum="€0" player="AllOver"/>
+   <action no="10" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action no="11" type="4" sum="€0" player="AllOver"/>
+   <action no="12" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:03:04</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 14:25:47</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€12,54</bets>
+  <wins>€17,34</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€109,15</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204370">
+  <general>
+   <startdate>2023-08-11 14:28:38</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€100" name="YPC2023" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€82,58" name="AllOver" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="6" chips="€100,50" name="SisuMisu" win="€0"/>
+    <player dealer="0" bet="€1" seat="8" chips="€100" name="BCeMHe" win="€1"/>
+    <player dealer="0" bet="€0" seat="10" chips="€109,15" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="SisuMisu"/>
+   <action no="2" type="2" sum="€1" player="BCeMHe"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BCeMHe">X X</cards>
+   <cards type="Pocket" player="lllllllIlllllllI">HJ H6</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="YPC2023">X X</cards>
+   <action no="4" type="0" sum="€0" player="YPC2023"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="0" sum="€0" player="AllOver"/>
+   <cards type="Pocket" player="SisuMisu">X X</cards>
+   <action no="6" type="0" sum="€0" player="SisuMisu"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:06:44</duration>
+  <gamecount>10</gamecount>
+  <startdate>2023-08-11 18:40:30</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€112,83</bets>
+  <wins>€68,68</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€133,52</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802274079">
+  <general>
+   <startdate>2023-08-11 18:40:30</startdate>
+   <players>
+    <player dealer="1" bet="€0,50" seat="1" chips="€100" name="Player 1" win="€0"/>
+    <player dealer="0" bet="€1" seat="6" chips="€100,50" name="Player 6" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="Player 1"/>
+   <action no="2" type="2" sum="€1" player="Player 6"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action no="3" type="0" sum="€0" player="Player 1"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:06:44</duration>
+  <gamecount>10</gamecount>
+  <startdate>2023-08-11 18:40:30</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€112,83</bets>
+  <wins>€68,68</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€133,52</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802275256">
+  <general>
+   <startdate>2023-08-11 18:40:41</startdate>
+   <players>
+    <player dealer="0" bet="€10" seat="1" chips="€99,50" name="Jrkin" win="€2"/>
+    <player dealer="0" bet="€1" seat="3" chips="€100" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="6" chips="€101" name="2023WillBeBetter" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="Jrkin"/>
+   <action no="2" type="2" sum="€1" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="2023WillBeBetter">X X</cards>
+   <action no="3" type="0" sum="€0" player="2023WillBeBetter"/>
+   <cards type="Pocket" player="Jrkin">X X</cards>
+   <action no="4" type="23" sum="€10" player="Jrkin"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D5 D4</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:06:44</duration>
+  <gamecount>10</gamecount>
+  <startdate>2023-08-11 18:40:30</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€112,83</bets>
+  <wins>€68,68</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€133,52</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802275305">
+  <general>
+   <startdate>2023-08-11 18:40:59</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="1" chips="€100,50" name="Jrkin" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="3" chips="€100" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€1" seat="6" chips="€101" name="2023WillBeBetter" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€1" player="2023WillBeBetter"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="2023WillBeBetter">X X</cards>
+   <cards type="Pocket" player="Jrkin">X X</cards>
+   <action no="3" type="0" sum="€0" player="Jrkin"/>
+   <cards type="Pocket" player="lllllllIlllllllI">C3 C4</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:06:44</duration>
+  <gamecount>10</gamecount>
+  <startdate>2023-08-11 18:40:30</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€112,83</bets>
+  <wins>€68,68</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€133,52</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802275322">
+  <general>
+   <startdate>2023-08-11 18:41:08</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€100,50" name="Jrkin" win="€0"/>
+    <player dealer="1" bet="€13" seat="3" chips="€100" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="6" chips="€101,50" name="2023WillBeBetter" win="€0"/>
+    <player dealer="0" bet="€18" seat="8" chips="€100" name="jonjous" win="€25,70"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="2023WillBeBetter"/>
+   <action no="2" type="2" sum="€1" player="jonjous"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Jrkin">X X</cards>
+   <action no="3" type="0" sum="€0" player="Jrkin"/>
+   <cards type="Pocket" player="lllllllIlllllllI">S9 C9</cards>
+   <action no="4" type="23" sum="€2,50" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="2023WillBeBetter">X X</cards>
+   <action no="5" type="0" sum="€0" player="2023WillBeBetter"/>
+   <cards type="Pocket" player="jonjous">X X</cards>
+   <action no="6" type="23" sum="€13" player="jonjous"/>
+   <action no="7" type="3" sum="€10,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA S10 D10</cards>
+   <action no="8" type="5" sum="€5" player="jonjous"/>
+   <action no="9" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:06:44</duration>
+  <gamecount>10</gamecount>
+  <startdate>2023-08-11 18:40:30</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€112,83</bets>
+  <wins>€68,68</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€133,52</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802276589">
+  <general>
+   <startdate>2023-08-11 18:42:06</startdate>
+   <players>
+    <player dealer="0" bet="€100,50" seat="1" chips="€100,50" name="Jrkin" win="€0"/>
+    <player dealer="0" bet="€0" seat="3" chips="€100" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€100,50" seat="6" chips="€101" name="2023WillBeBetter" win="€200,50"/>
+    <player dealer="0" bet="€0,50" seat="8" chips="€112,70" name="jonjous" win="€0"/>
+    <player dealer="0" bet="€1" seat="10" chips="€100" name="LeviAckerman" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="jonjous"/>
+   <action no="2" type="2" sum="€1" player="LeviAckerman"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Jrkin">HK DA</cards>
+   <action no="3" type="23" sum="€12" player="Jrkin"/>
+   <cards type="Pocket" player="lllllllIlllllllI">S7 H2</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="2023WillBeBetter">SK DK</cards>
+   <action no="5" type="23" sum="€27" player="2023WillBeBetter"/>
+   <cards type="Pocket" player="jonjous">X X</cards>
+   <action no="6" type="0" sum="€0" player="jonjous"/>
+   <cards type="Pocket" player="LeviAckerman">X X</cards>
+   <action no="7" type="0" sum="€0" player="LeviAckerman"/>
+   <action no="8" type="3" sum="€15" player="Jrkin"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 C9 HJ</cards>
+   <action no="9" type="5" sum="€15" player="Jrkin"/>
+   <action no="10" type="3" sum="€15" player="2023WillBeBetter"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action no="11" type="5" sum="€58,50" player="Jrkin"/>
+   <action no="12" type="3" sum="€58,50" player="2023WillBeBetter"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:06:44</duration>
+  <gamecount>10</gamecount>
+  <startdate>2023-08-11 18:40:30</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€112,83</bets>
+  <wins>€68,68</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€133,52</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802276686">
+  <general>
+   <startdate>2023-08-11 18:43:04</startdate>
+   <players>
+    <player dealer="0" bet="€50,35" seat="3" chips="€100" name="lllllllIlllllllI" win="€45,44"/>
+    <player dealer="0" bet="€23,18" seat="6" chips="€201" name="2023WillBeBetter" win="€0"/>
+    <player dealer="1" bet="€0" seat="8" chips="€112,20" name="jonjous" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="10" chips="€100" name="LeviAckerman" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="LeviAckerman"/>
+   <action no="2" type="2" sum="€1" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="2023WillBeBetter">X X</cards>
+   <action no="3" type="23" sum="€2,30" player="2023WillBeBetter"/>
+   <cards type="Pocket" player="jonjous">X X</cards>
+   <action no="4" type="0" sum="€0" player="jonjous"/>
+   <cards type="Pocket" player="LeviAckerman">X X</cards>
+   <action no="5" type="0" sum="€0" player="LeviAckerman"/>
+   <cards type="Pocket" player="lllllllIlllllllI">SA DK</cards>
+   <action no="6" type="23" sum="€10,60" player="lllllllIlllllllI"/>
+   <action no="7" type="3" sum="€8,30" player="2023WillBeBetter"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 H5 C5</cards>
+   <action no="8" type="5" sum="€12,58" player="lllllllIlllllllI"/>
+   <action no="9" type="3" sum="€12,58" player="2023WillBeBetter"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action no="10" type="5" sum="€27,17" player="lllllllIlllllllI"/>
+   <action no="11" type="0" sum="€0" player="2023WillBeBetter"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:06:44</duration>
+  <gamecount>10</gamecount>
+  <startdate>2023-08-11 18:40:30</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€112,83</bets>
+  <wins>€68,68</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€133,52</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802276845">
+  <general>
+   <startdate>2023-08-11 18:44:24</startdate>
+   <players>
+    <player dealer="0" bet="€47,98" seat="3" chips="€122,26" name="lllllllIlllllllI" win="€23,24"/>
+    <player dealer="0" bet="€11,98" seat="5" chips="€102,34" name="FUiYOH" win="€0"/>
+    <player dealer="0" bet="€0" seat="6" chips="€177,82" name="2023WillBeBetter" win="€0"/>
+    <player dealer="0" bet="€0" seat="8" chips="€112,20" name="jonjous" win="€0"/>
+    <player dealer="1" bet="€0" seat="10" chips="€100" name="LeviAckerman" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€1" player="FUiYOH"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="2023WillBeBetter">X X</cards>
+   <action no="3" type="0" sum="€0" player="2023WillBeBetter"/>
+   <cards type="Pocket" player="jonjous">X X</cards>
+   <action no="4" type="0" sum="€0" player="jonjous"/>
+   <cards type="Pocket" player="LeviAckerman">X X</cards>
+   <action no="5" type="0" sum="€0" player="LeviAckerman"/>
+   <cards type="Pocket" player="lllllllIlllllllI">S10 H9</cards>
+   <action no="6" type="23" sum="€3" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="FUiYOH">X X</cards>
+   <action no="7" type="3" sum="€2" player="FUiYOH"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA C4 HK</cards>
+   <action no="8" type="5" sum="€1,44" player="lllllllIlllllllI"/>
+   <action no="9" type="3" sum="€1,44" player="FUiYOH"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action no="10" type="5" sum="€7,54" player="lllllllIlllllllI"/>
+   <action no="11" type="3" sum="€7,54" player="FUiYOH"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action no="12" type="5" sum="€36" player="lllllllIlllllllI"/>
+   <action no="13" type="0" sum="€0" player="FUiYOH"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:06:44</duration>
+  <gamecount>10</gamecount>
+  <startdate>2023-08-11 18:40:30</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€112,83</bets>
+  <wins>€68,68</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€133,52</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802276996">
+  <general>
+   <startdate>2023-08-11 18:45:35</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="3" chips="€133,52" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="5" chips="€100" name="FUiYOH" win="€0"/>
+    <player dealer="0" bet="€1" seat="6" chips="€177,82" name="2023WillBeBetter" win="€0"/>
+    <player dealer="0" bet="€2" seat="8" chips="€112,20" name="jonjous" win="€2,50"/>
+    <player dealer="0" bet="€0" seat="10" chips="€100" name="LeviAckerman" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="FUiYOH"/>
+   <action no="2" type="2" sum="€1" player="2023WillBeBetter"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="jonjous">X X</cards>
+   <action no="3" type="23" sum="€2" player="jonjous"/>
+   <cards type="Pocket" player="LeviAckerman">X X</cards>
+   <action no="4" type="0" sum="€0" player="LeviAckerman"/>
+   <cards type="Pocket" player="lllllllIlllllllI">S3 SJ</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="FUiYOH">X X</cards>
+   <action no="6" type="0" sum="€0" player="FUiYOH"/>
+   <cards type="Pocket" player="2023WillBeBetter">X X</cards>
+   <action no="7" type="0" sum="€0" player="2023WillBeBetter"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:06:44</duration>
+  <gamecount>10</gamecount>
+  <startdate>2023-08-11 18:40:30</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€112,83</bets>
+  <wins>€68,68</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€133,52</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802277028">
+  <general>
+   <startdate>2023-08-11 18:45:51</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="3" chips="€133,52" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€100" name="FUiYOH" win="€0"/>
+    <player dealer="0" bet="€11" seat="6" chips="€176,82" name="2023WillBeBetter" win="€6"/>
+    <player dealer="0" bet="€1" seat="8" chips="€113,70" name="jonjous" win="€0"/>
+    <player dealer="0" bet="€2,50" seat="10" chips="€100" name="LeviAckerman" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="2023WillBeBetter"/>
+   <action no="2" type="2" sum="€1" player="jonjous"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="LeviAckerman">X X</cards>
+   <action no="3" type="23" sum="€2,50" player="LeviAckerman"/>
+   <cards type="Pocket" player="lllllllIlllllllI">SJ C9</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="FUiYOH">X X</cards>
+   <action no="5" type="0" sum="€0" player="FUiYOH"/>
+   <cards type="Pocket" player="2023WillBeBetter">X X</cards>
+   <action no="6" type="23" sum="€11" player="2023WillBeBetter"/>
+   <cards type="Pocket" player="jonjous">X X</cards>
+   <action no="7" type="0" sum="€0" player="jonjous"/>
+   <action no="8" type="0" sum="€0" player="LeviAckerman"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:06:44</duration>
+  <gamecount>10</gamecount>
+  <startdate>2023-08-11 18:40:30</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€112,83</bets>
+  <wins>€68,68</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€133,52</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802277110">
+  <general>
+   <startdate>2023-08-11 18:46:30</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="3" chips="€133,52" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€2" seat="5" chips="€100" name="FUiYOH" win="€0"/>
+    <player dealer="1" bet="€0" seat="6" chips="€180,32" name="2023WillBeBetter" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="8" chips="€112,70" name="jonjous" win="€0"/>
+    <player dealer="0" bet="€11" seat="10" chips="€100" name="LeviAckerman" win="€4,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,50" player="jonjous"/>
+   <action no="2" type="2" sum="€1" player="LeviAckerman"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">D2 S9</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="FUiYOH">X X</cards>
+   <action no="4" type="23" sum="€2" player="FUiYOH"/>
+   <cards type="Pocket" player="2023WillBeBetter">X X</cards>
+   <action no="5" type="0" sum="€0" player="2023WillBeBetter"/>
+   <cards type="Pocket" player="jonjous">X X</cards>
+   <action no="6" type="0" sum="€0" player="jonjous"/>
+   <cards type="Pocket" player="LeviAckerman">X X</cards>
+   <action no="7" type="23" sum="€11" player="LeviAckerman"/>
+   <action no="8" type="0" sum="€0" player="FUiYOH"/>
+  </round>
+ </game></root>

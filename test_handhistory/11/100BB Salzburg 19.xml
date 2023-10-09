@@ -1,0 +1,1955 @@
+
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802286113">
+  <general>
+   <startdate>2023-08-11 19:07:26</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="1" chips="€50,75" name="Player 1" win="€0,50"/>
+    <player dealer="1" bet="€0,25" seat="10" chips="€98,75" name="Player 10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Player 10"/>
+   <action no="2" type="2" sum="€0,50" player="Player 1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action no="3" type="0" sum="€0" player="Player 10"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802286127">
+  <general>
+   <startdate>2023-08-11 19:07:33</startdate>
+   <players>
+    <player dealer="1" bet="€0,25" seat="1" chips="€51" name="Player 1" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="10" chips="€98,50" name="Player 10" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Player 1"/>
+   <action no="2" type="2" sum="€0,50" player="Player 10"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action no="3" type="0" sum="€0" player="Player 1"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802286139">
+  <general>
+   <startdate>2023-08-11 19:07:39</startdate>
+   <players>
+    <player dealer="0" bet="€2,22" seat="1" chips="€50,75" name="TillCosby" win="€4,31"/>
+    <player dealer="0" bet="€2,22" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="10" chips="€98,75" name="HahHahTyTy" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="TillCosby"/>
+   <action no="2" type="2" sum="€0,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HahHahTyTy">X X</cards>
+   <action no="3" type="0" sum="€0" player="HahHahTyTy"/>
+   <cards type="Pocket" player="TillCosby">DJ SA</cards>
+   <action no="4" type="23" sum="€1,50" player="TillCosby"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D6 C5</cards>
+   <action no="5" type="3" sum="€1" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 S9 HK</cards>
+   <action no="6" type="4" sum="€0" player="TillCosby"/>
+   <action no="7" type="5" sum="€0,72" player="lllllllIlllllllI"/>
+   <action no="8" type="3" sum="€0,72" player="TillCosby"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action no="9" type="4" sum="€0" player="TillCosby"/>
+   <action no="10" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action no="11" type="4" sum="€0" player="TillCosby"/>
+   <action no="12" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802286271">
+  <general>
+   <startdate>2023-08-11 19:08:37</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€50" name="DegenGambler" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="6" chips="€50" name="PeakyBlinders" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="8" chips="€50" name="Witzloshoch3" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="PeakyBlinders"/>
+   <action no="2" type="2" sum="€0,50" player="Witzloshoch3"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Witzloshoch3">X X</cards>
+   <cards type="Pocket" player="lllllllIlllllllI">S4 S8</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="DegenGambler">X X</cards>
+   <action no="4" type="0" sum="€0" player="DegenGambler"/>
+   <cards type="Pocket" player="PeakyBlinders">X X</cards>
+   <action no="5" type="0" sum="€0" player="PeakyBlinders"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802286319">
+  <general>
+   <startdate>2023-08-11 19:08:55</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="3" chips="€50" name="lllllllIlllllllI" win="€0,50"/>
+    <player dealer="0" bet="€0" seat="5" chips="€50" name="DegenGambler" win="€0"/>
+    <player dealer="1" bet="€0" seat="6" chips="€50" name="PeakyBlinders" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="8" chips="€50,25" name="Witzloshoch3" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Witzloshoch3"/>
+   <action no="2" type="2" sum="€0,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">H5 DQ</cards>
+   <cards type="Pocket" player="DegenGambler">X X</cards>
+   <action no="3" type="0" sum="€0" player="DegenGambler"/>
+   <cards type="Pocket" player="PeakyBlinders">X X</cards>
+   <action no="4" type="0" sum="€0" player="PeakyBlinders"/>
+   <cards type="Pocket" player="Witzloshoch3">X X</cards>
+   <action no="5" type="0" sum="€0" player="Witzloshoch3"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802286338">
+  <general>
+   <startdate>2023-08-11 19:09:03</startdate>
+   <players>
+    <player dealer="0" bet="€6" seat="3" chips="€50,25" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€6" seat="6" chips="€50" name="PeakyBlinders" win="€11,64"/>
+    <player dealer="1" bet="€0" seat="8" chips="€50" name="Witzloshoch3" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€0,50" player="PeakyBlinders"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Witzloshoch3">X X</cards>
+   <action no="3" type="0" sum="€0" player="Witzloshoch3"/>
+   <cards type="Pocket" player="lllllllIlllllllI">S10 DJ</cards>
+   <action no="4" type="23" sum="€1,50" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="PeakyBlinders">CJ SK</cards>
+   <action no="5" type="3" sum="€1" player="PeakyBlinders"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK C8 D10</cards>
+   <action no="6" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="7" type="5" sum="€1,50" player="PeakyBlinders"/>
+   <action no="8" type="3" sum="€1,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action no="9" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="10" type="5" sum="€3" player="PeakyBlinders"/>
+   <action no="11" type="3" sum="€3" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action no="12" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="13" type="4" sum="€0" player="PeakyBlinders"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802287001">
+  <general>
+   <startdate>2023-08-11 19:10:16</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="3" chips="€50" name="lllllllIlllllllI" win="€0,50"/>
+    <player dealer="1" bet="€0,25" seat="6" chips="€55,64" name="PeakyBlinders" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="PeakyBlinders"/>
+   <action no="2" type="2" sum="€0,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">D2 CJ</cards>
+   <cards type="Pocket" player="PeakyBlinders">X X</cards>
+   <action no="3" type="0" sum="€0" player="PeakyBlinders"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802287022">
+  <general>
+   <startdate>2023-08-11 19:10:25</startdate>
+   <players>
+    <player dealer="1" bet="€1,25" seat="3" chips="€50,25" name="lllllllIlllllllI" win="€1"/>
+    <player dealer="0" bet="€0,50" seat="6" chips="€55,39" name="PeakyBlinders" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€0,50" player="PeakyBlinders"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">CA H8</cards>
+   <action no="3" type="23" sum="€1,25" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="PeakyBlinders">X X</cards>
+   <action no="4" type="0" sum="€0" player="PeakyBlinders"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802287079">
+  <general>
+   <startdate>2023-08-11 19:10:46</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" seat="3" chips="€50,75" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="5" chips="€50" name="Vegeode" win="€0"/>
+    <player dealer="1" bet="€1,25" seat="6" chips="€54,89" name="PeakyBlinders" win="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€0,50" player="Vegeode"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PeakyBlinders">X X</cards>
+   <action no="3" type="23" sum="€1,25" player="PeakyBlinders"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D10 H7</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="5" type="0" sum="€0" player="Vegeode"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802287122">
+  <general>
+   <startdate>2023-08-11 19:11:05</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="3" chips="€50,50" name="lllllllIlllllllI" win="€0,50"/>
+    <player dealer="1" bet="€0,25" seat="5" chips="€50" name="Vegeode" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Vegeode"/>
+   <action no="2" type="2" sum="€0,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">SK D8</cards>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="3" type="0" sum="€0" player="Vegeode"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802287155">
+  <general>
+   <startdate>2023-08-11 19:11:18</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="3" chips="€50,75" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="5" chips="€50" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="6" chips="€50" name="TodellaKuuma" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Vegeode"/>
+   <action no="2" type="2" sum="€0,50" player="TodellaKuuma"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <cards type="Pocket" player="lllllllIlllllllI">C9 C3</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="4" type="0" sum="€0" player="Vegeode"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802287174">
+  <general>
+   <startdate>2023-08-11 19:11:24</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="3" chips="€50,75" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€3,23" seat="5" chips="€50" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€6,71" seat="6" chips="€50,25" name="TodellaKuuma" win="€6,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="TodellaKuuma"/>
+   <action no="2" type="2" sum="€0,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="3" type="23" sum="€1,25" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="4" type="3" sum="€1" player="TodellaKuuma"/>
+   <cards type="Pocket" player="lllllllIlllllllI">C7 D3</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ D5 H3</cards>
+   <action no="6" type="4" sum="€0" player="TodellaKuuma"/>
+   <action no="7" type="5" sum="€1,98" player="Vegeode"/>
+   <action no="8" type="23" sum="€5,46" player="TodellaKuuma"/>
+   <action no="9" type="0" sum="€0" player="Vegeode"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802287267">
+  <general>
+   <startdate>2023-08-11 19:12:07</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" seat="3" chips="€50,25" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="5" chips="€50" name="Vegeode" win="€0"/>
+    <player dealer="1" bet="€1,50" seat="6" chips="€53,77" name="TodellaKuuma" win="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€0,50" player="Vegeode"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="3" type="23" sum="€1,50" player="TodellaKuuma"/>
+   <cards type="Pocket" player="lllllllIlllllllI">S4 C10</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="5" type="0" sum="€0" player="Vegeode"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288456">
+  <general>
+   <startdate>2023-08-11 19:12:15</startdate>
+   <players>
+    <player dealer="1" bet="€1,25" seat="3" chips="€50" name="lllllllIlllllllI" win="€1,25"/>
+    <player dealer="0" bet="€0,25" seat="5" chips="€50" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="6" chips="€54,52" name="TodellaKuuma" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Vegeode"/>
+   <action no="2" type="2" sum="€0,50" player="TodellaKuuma"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">H10 HJ</cards>
+   <action no="3" type="23" sum="€1,25" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="4" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="5" type="0" sum="€0" player="TodellaKuuma"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288471">
+  <general>
+   <startdate>2023-08-11 19:12:21</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="1" chips="€52,84" name="TillCosby" win="€0,50"/>
+    <player dealer="0" bet="€0" seat="3" chips="€50,75" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€50" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="6" chips="€54,02" name="TodellaKuuma" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="TodellaKuuma"/>
+   <action no="2" type="2" sum="€0,50" player="TillCosby"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <cards type="Pocket" player="lllllllIlllllllI">S2 SK</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="4" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="5" type="0" sum="€0" player="TodellaKuuma"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288502">
+  <general>
+   <startdate>2023-08-11 19:12:35</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" seat="1" chips="€53,09" name="TillCosby" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="3" chips="€50,75" name="lllllllIlllllllI" win="€0,50"/>
+    <player dealer="0" bet="€0" seat="5" chips="€50" name="Vegeode" win="€0"/>
+    <player dealer="1" bet="€0" seat="6" chips="€53,77" name="TodellaKuuma" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="TillCosby"/>
+   <action no="2" type="2" sum="€0,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">C9 H9</cards>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="3" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="4" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="5" type="0" sum="€0" player="TillCosby"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288544">
+  <general>
+   <startdate>2023-08-11 19:12:51</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="1" chips="€52,84" name="TillCosby" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="3" chips="€51" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="5" chips="€50" name="Vegeode" win="€0,50"/>
+    <player dealer="0" bet="€0" seat="6" chips="€53,77" name="TodellaKuuma" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€0,50" player="Vegeode"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="3" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="4" type="0" sum="€0" player="TillCosby"/>
+   <cards type="Pocket" player="lllllllIlllllllI">C7 C4</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288571">
+  <general>
+   <startdate>2023-08-11 19:13:00</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€52,84" name="TillCosby" win="€0"/>
+    <player dealer="1" bet="€0" seat="3" chips="€50,75" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="5" chips="€50,25" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="6" chips="€53,77" name="TodellaKuuma" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Vegeode"/>
+   <action no="2" type="2" sum="€0,50" player="TodellaKuuma"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="3" type="0" sum="€0" player="TillCosby"/>
+   <cards type="Pocket" player="lllllllIlllllllI">H4 C9</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="5" type="0" sum="€0" player="Vegeode"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288591">
+  <general>
+   <startdate>2023-08-11 19:13:09</startdate>
+   <players>
+    <player dealer="0" bet="€1,25" seat="1" chips="€52,84" name="TillCosby" win="€1,25"/>
+    <player dealer="0" bet="€0" seat="3" chips="€50,75" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€50" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="6" chips="€54,02" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="8" chips="€50" name="Alias007" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="TodellaKuuma"/>
+   <action no="2" type="2" sum="€0,50" player="Alias007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="3" type="23" sum="€1,25" player="TillCosby"/>
+   <cards type="Pocket" player="lllllllIlllllllI">H4 D2</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="5" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="6" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="7" type="0" sum="€0" player="Alias007"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288621">
+  <general>
+   <startdate>2023-08-11 19:13:19</startdate>
+   <players>
+    <player dealer="0" bet="€3" seat="1" chips="€53,59" name="TillCosby" win="€0"/>
+    <player dealer="0" bet="€0" seat="3" chips="€50,75" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0" seat="5" chips="€50" name="Vegeode" win="€0"/>
+    <player dealer="1" bet="€0" seat="6" chips="€53,77" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€6" seat="8" chips="€49,50" name="Alias007" win="€5,82"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Alias007"/>
+   <action no="2" type="2" sum="€0,50" player="TillCosby"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">DJ D6</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="4" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="5" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="6" type="23" sum="€1" player="Alias007"/>
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="7" type="23" sum="€3" player="TillCosby"/>
+   <action no="8" type="3" sum="€2" player="Alias007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA SQ C4</cards>
+   <action no="9" type="4" sum="€0" player="Alias007"/>
+   <action no="10" type="4" sum="€0" player="TillCosby"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action no="11" type="4" sum="€0" player="Alias007"/>
+   <action no="12" type="4" sum="€0" player="TillCosby"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action no="13" type="5" sum="€3" player="Alias007"/>
+   <action no="14" type="0" sum="€0" player="TillCosby"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288699">
+  <general>
+   <startdate>2023-08-11 19:13:48</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" seat="1" chips="€50,59" name="TillCosby" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="3" chips="€50,75" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0" seat="5" chips="€50" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€1,50" seat="6" chips="€53,77" name="TodellaKuuma" win="€1,25"/>
+    <player dealer="1" bet="€0" seat="8" chips="€52,32" name="Alias007" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="TillCosby"/>
+   <action no="2" type="2" sum="€0,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="3" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="4" type="23" sum="€1,50" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="5" type="0" sum="€0" player="Alias007"/>
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="6" type="0" sum="€0" player="TillCosby"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D7 SK</cards>
+   <action no="7" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288730">
+  <general>
+   <startdate>2023-08-11 19:14:00</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="3" chips="€50,25" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€1,50" seat="5" chips="€50" name="Vegeode" win="€1"/>
+    <player dealer="0" bet="€0,50" seat="6" chips="€54,52" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€0" seat="8" chips="€52,32" name="Alias007" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Vegeode"/>
+   <action no="2" type="2" sum="€0,50" player="TodellaKuuma"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="3" type="0" sum="€0" player="Alias007"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D7 SQ</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="5" type="23" sum="€1,50" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="6" type="0" sum="€0" player="TodellaKuuma"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288774">
+  <general>
+   <startdate>2023-08-11 19:14:15</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="3" chips="€50,25" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€50,50" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="6" chips="€54,02" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="8" chips="€52,32" name="Alias007" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="TodellaKuuma"/>
+   <action no="2" type="2" sum="€0,50" player="Alias007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <cards type="Pocket" player="lllllllIlllllllI">H2 C6</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="4" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="5" type="0" sum="€0" player="TodellaKuuma"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288803">
+  <general>
+   <startdate>2023-08-11 19:14:25</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="3" chips="€50,25" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0" seat="5" chips="€50,50" name="Vegeode" win="€0"/>
+    <player dealer="1" bet="€1,50" seat="6" chips="€53,77" name="TodellaKuuma" win="€1,25"/>
+    <player dealer="0" bet="€0,25" seat="8" chips="€52,57" name="Alias007" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Alias007"/>
+   <action no="2" type="2" sum="€0,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="3" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="4" type="23" sum="€1,50" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="5" type="0" sum="€0" player="Alias007"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D3 CA</cards>
+   <action no="6" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288834">
+  <general>
+   <startdate>2023-08-11 19:14:37</startdate>
+   <players>
+    <player dealer="0" bet="€1,50" seat="3" chips="€50" name="lllllllIlllllllI" win="€1"/>
+    <player dealer="0" bet="€0,50" seat="5" chips="€50,50" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€0" seat="6" chips="€54,52" name="TodellaKuuma" win="€0"/>
+    <player dealer="1" bet="€0" seat="8" chips="€52,32" name="Alias007" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€0,50" player="Vegeode"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="3" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="4" type="0" sum="€0" player="Alias007"/>
+   <cards type="Pocket" player="lllllllIlllllllI">DA HK</cards>
+   <action no="5" type="23" sum="€1,50" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="6" type="0" sum="€0" player="Vegeode"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288872">
+  <general>
+   <startdate>2023-08-11 19:14:52</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="3" chips="€50,50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="5" chips="€50" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="6" chips="€54,52" name="TodellaKuuma" win="€0,50"/>
+    <player dealer="0" bet="€0" seat="8" chips="€52,32" name="Alias007" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Vegeode"/>
+   <action no="2" type="2" sum="€0,50" player="TodellaKuuma"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="3" type="0" sum="€0" player="Alias007"/>
+   <cards type="Pocket" player="lllllllIlllllllI">C2 SA</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="5" type="0" sum="€0" player="Vegeode"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288899">
+  <general>
+   <startdate>2023-08-11 19:15:00</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="3" chips="€50,50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€1,25" seat="5" chips="€50" name="Vegeode" win="€1,25"/>
+    <player dealer="0" bet="€0,25" seat="6" chips="€54,77" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="8" chips="€52,32" name="Alias007" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="TodellaKuuma"/>
+   <action no="2" type="2" sum="€0,50" player="Alias007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">SA C3</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="4" type="23" sum="€1,25" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="5" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="6" type="0" sum="€0" player="Alias007"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288925">
+  <general>
+   <startdate>2023-08-11 19:15:11</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="3" chips="€50,50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€11,25" seat="5" chips="€50,75" name="Vegeode" win="€8,75"/>
+    <player dealer="1" bet="€4" seat="6" chips="€54,52" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="8" chips="€51,82" name="Alias007" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Alias007"/>
+   <action no="2" type="2" sum="€0,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="3" type="23" sum="€1,25" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="4" type="23" sum="€4" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="5" type="0" sum="€0" player="Alias007"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D8 C5</cards>
+   <action no="6" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <action no="7" type="23" sum="€11,25" player="Vegeode"/>
+   <action no="8" type="0" sum="€0" player="TodellaKuuma"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802288992">
+  <general>
+   <startdate>2023-08-11 19:15:38</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="5" chips="€55,50" name="Vegeode" win="€0,50"/>
+    <player dealer="0" bet="€0" seat="6" chips="€50,52" name="TodellaKuuma" win="€0"/>
+    <player dealer="1" bet="€0" seat="8" chips="€51,57" name="Alias007" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€0,50" player="Vegeode"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="3" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="4" type="0" sum="€0" player="Alias007"/>
+   <cards type="Pocket" player="lllllllIlllllllI">S6 H4</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802289020">
+  <general>
+   <startdate>2023-08-11 19:15:48</startdate>
+   <players>
+    <player dealer="1" bet="€1,25" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="5" chips="€55,75" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€2,25" seat="6" chips="€50,52" name="TodellaKuuma" win="€2,67"/>
+    <player dealer="0" bet="€0" seat="8" chips="€51,57" name="Alias007" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Vegeode"/>
+   <action no="2" type="2" sum="€0,50" player="TodellaKuuma"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="3" type="0" sum="€0" player="Alias007"/>
+   <cards type="Pocket" player="lllllllIlllllllI">H8 C8</cards>
+   <action no="4" type="23" sum="€1,25" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="5" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="6" type="3" sum="€0,75" player="TodellaKuuma"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ HQ CK</cards>
+   <action no="7" type="4" sum="€0" player="TodellaKuuma"/>
+   <action no="8" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action no="9" type="5" sum="€1" player="TodellaKuuma"/>
+   <action no="10" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802289109">
+  <general>
+   <startdate>2023-08-11 19:16:23</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€55,50" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="6" chips="€51,94" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="8" chips="€51,57" name="Alias007" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="TodellaKuuma"/>
+   <action no="2" type="2" sum="€0,50" player="Alias007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <cards type="Pocket" player="lllllllIlllllllI">D9 D5</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="4" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="5" type="0" sum="€0" player="TodellaKuuma"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802289134">
+  <general>
+   <startdate>2023-08-11 19:16:32</startdate>
+   <players>
+    <player dealer="0" bet="€1,25" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0" seat="5" chips="€55,50" name="Vegeode" win="€0"/>
+    <player dealer="1" bet="€0" seat="6" chips="€51,69" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€5" seat="8" chips="€51,82" name="Alias007" win="€3"/>
+    <player dealer="0" bet="€0,50" seat="10" chips="€50" name="BRIII" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Alias007"/>
+   <action no="2" type="2" sum="€0,50" player="BRIII"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">DQ SK</cards>
+   <action no="3" type="23" sum="€1,25" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="4" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="5" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="6" type="23" sum="€5" player="Alias007"/>
+   <cards type="Pocket" player="BRIII">X X</cards>
+   <action no="7" type="0" sum="€0" player="BRIII"/>
+   <action no="8" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802289213">
+  <general>
+   <startdate>2023-08-11 19:17:00</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="1" chips="€50,34" name="TillCosby" win="€0"/>
+    <player dealer="0" bet="€0" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€4,18" seat="5" chips="€55,50" name="Vegeode" win="€5,33"/>
+    <player dealer="0" bet="€2,37" seat="6" chips="€51,69" name="TodellaKuuma" win="€0"/>
+    <player dealer="1" bet="€0" seat="8" chips="€53,57" name="Alias007" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="10" chips="€49,50" name="BRIII" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="BRIII"/>
+   <action no="2" type="2" sum="€0,50" player="TillCosby"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">D8 D4</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="4" type="23" sum="€1" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="5" type="3" sum="€1" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="6" type="0" sum="€0" player="Alias007"/>
+   <cards type="Pocket" player="BRIII">X X</cards>
+   <action no="7" type="0" sum="€0" player="BRIII"/>
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="8" type="0" sum="€0" player="TillCosby"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 HK D6</cards>
+   <action no="9" type="4" sum="€0" player="Vegeode"/>
+   <action no="10" type="5" sum="€1,37" player="TodellaKuuma"/>
+   <action no="11" type="3" sum="€1,37" player="Vegeode"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action no="12" type="4" sum="€0" player="Vegeode"/>
+   <action no="13" type="4" sum="€0" player="TodellaKuuma"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action no="14" type="5" sum="€1,81" player="Vegeode"/>
+   <action no="15" type="0" sum="€0" player="TodellaKuuma"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802289402">
+  <general>
+   <startdate>2023-08-11 19:18:17</startdate>
+   <players>
+    <player dealer="0" bet="€18,71" seat="1" chips="€50" name="TillCosby" win="€18,51"/>
+    <player dealer="0" bet="€0,50" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€1" seat="5" chips="€58,46" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€0" seat="6" chips="€49,32" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€8,79" seat="8" chips="€53,57" name="Alias007" win="€0"/>
+    <player dealer="1" bet="€0" seat="10" chips="€49,25" name="BRIII" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="TillCosby"/>
+   <action no="2" type="2" sum="€0,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="3" type="23" sum="€1" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="4" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="5" type="3" sum="€1" player="Alias007"/>
+   <cards type="Pocket" player="BRIII">X X</cards>
+   <action no="6" type="0" sum="€0" player="BRIII"/>
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="7" type="23" sum="€5" player="TillCosby"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D2 H7</cards>
+   <action no="8" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <action no="9" type="0" sum="€0" player="Vegeode"/>
+   <action no="10" type="3" sum="€4" player="Alias007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 C6 S8</cards>
+   <action no="11" type="5" sum="€3,79" player="TillCosby"/>
+   <action no="12" type="3" sum="€3,79" player="Alias007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action no="13" type="5" sum="€9,92" player="TillCosby"/>
+   <action no="14" type="0" sum="€0" player="Alias007"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802289549">
+  <general>
+   <startdate>2023-08-11 19:19:09</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="1" chips="€59,72" name="TillCosby" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€6,12" seat="5" chips="€57,46" name="Vegeode" win="€7,31"/>
+    <player dealer="0" bet="€0" seat="6" chips="€49,32" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€3,64" seat="8" chips="€44,78" name="Alias007" win="€0"/>
+    <player dealer="0" bet="€0" seat="10" chips="€49,25" name="BRIII" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€0,50" player="Vegeode"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="3" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="4" type="23" sum="€1,50" player="Alias007"/>
+   <cards type="Pocket" player="BRIII">X X</cards>
+   <action no="5" type="0" sum="€0" player="BRIII"/>
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="6" type="0" sum="€0" player="TillCosby"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D8 C4</cards>
+   <action no="7" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="8" type="3" sum="€1" player="Vegeode"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ C8 S7</cards>
+   <action no="9" type="4" sum="€0" player="Vegeode"/>
+   <action no="10" type="4" sum="€0" player="Alias007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action no="11" type="5" sum="€2,14" player="Vegeode"/>
+   <action no="12" type="3" sum="€2,14" player="Alias007"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action no="13" type="5" sum="€2,48" player="Vegeode"/>
+   <action no="14" type="0" sum="€0" player="Alias007"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802289675">
+  <general>
+   <startdate>2023-08-11 19:19:56</startdate>
+   <players>
+    <player dealer="0" bet="€2,68" seat="1" chips="€59,72" name="TillCosby" win="€2,67"/>
+    <player dealer="1" bet="€0" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="5" chips="€61,13" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€1,25" seat="6" chips="€49,32" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€0" seat="8" chips="€41,14" name="Alias007" win="€0"/>
+    <player dealer="0" bet="€0" seat="10" chips="€49,25" name="BRIII" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Vegeode"/>
+   <action no="2" type="2" sum="€0,50" player="TodellaKuuma"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="3" type="0" sum="€0" player="Alias007"/>
+   <cards type="Pocket" player="BRIII">X X</cards>
+   <action no="4" type="0" sum="€0" player="BRIII"/>
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="5" type="23" sum="€1,25" player="TillCosby"/>
+   <cards type="Pocket" player="lllllllIlllllllI">CQ HJ</cards>
+   <action no="6" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="7" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="8" type="3" sum="€0,75" player="TodellaKuuma"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 HA HK</cards>
+   <action no="9" type="4" sum="€0" player="TodellaKuuma"/>
+   <action no="10" type="5" sum="€1,43" player="TillCosby"/>
+   <action no="11" type="0" sum="€0" player="TodellaKuuma"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802290306">
+  <general>
+   <startdate>2023-08-11 19:20:38</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€61,14" name="TillCosby" win="€0"/>
+    <player dealer="0" bet="€0" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€60,88" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="6" chips="€48,07" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="8" chips="€50" name="Alias007" win="€0,50"/>
+    <player dealer="0" bet="€0" seat="10" chips="€49,25" name="BRIII" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="TodellaKuuma"/>
+   <action no="2" type="2" sum="€0,50" player="Alias007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <cards type="Pocket" player="BRIII">X X</cards>
+   <action no="3" type="0" sum="€0" player="BRIII"/>
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="4" type="0" sum="€0" player="TillCosby"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D3 D9</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="6" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="7" type="0" sum="€0" player="TodellaKuuma"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802291533">
+  <general>
+   <startdate>2023-08-11 19:20:48</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€61,14" name="TillCosby" win="€0"/>
+    <player dealer="0" bet="€0" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0" seat="5" chips="€60,88" name="Vegeode" win="€0"/>
+    <player dealer="1" bet="€0" seat="6" chips="€47,82" name="TodellaKuuma" win="€0"/>
+    <player dealer="0" bet="€5,76" seat="8" chips="€50,25" name="Alias007" win="€11,18"/>
+    <player dealer="0" bet="€5,76" seat="10" chips="€49,25" name="BRIII" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Alias007"/>
+   <action no="2" type="2" sum="€0,50" player="BRIII"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="3" type="0" sum="€0" player="TillCosby"/>
+   <cards type="Pocket" player="lllllllIlllllllI">HJ C3</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="5" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="6" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">HK CQ</cards>
+   <action no="7" type="23" sum="€1" player="Alias007"/>
+   <cards type="Pocket" player="BRIII">HQ C8</cards>
+   <action no="8" type="3" sum="€0,50" player="BRIII"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 C2 SQ</cards>
+   <action no="9" type="5" sum="€1,40" player="Alias007"/>
+   <action no="10" type="3" sum="€1,40" player="BRIII"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action no="11" type="5" sum="€3,36" player="Alias007"/>
+   <action no="12" type="3" sum="€3,36" player="BRIII"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action no="13" type="4" sum="€0" player="Alias007"/>
+   <action no="14" type="4" sum="€0" player="BRIII"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:14:17</duration>
+  <gamecount>39</gamecount>
+  <startdate>2023-08-11 19:07:26</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€21,72</bets>
+  <wins>€5,25</wins>
+  <chipsin>€47,78</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802291604">
+  <general>
+   <startdate>2023-08-11 19:21:19</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="1" chips="€61,14" name="TillCosby" win="€0"/>
+    <player dealer="0" bet="€1,25" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€3,75" seat="5" chips="€60,88" name="Vegeode" win="€3,25"/>
+    <player dealer="0" bet="€0" seat="6" chips="€47,82" name="TodellaKuuma" win="€0"/>
+    <player dealer="1" bet="€0" seat="8" chips="€55,67" name="Alias007" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="10" chips="€43,49" name="BRIII" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="BRIII"/>
+   <action no="2" type="2" sum="€0,50" player="TillCosby"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">C6 CA</cards>
+   <action no="3" type="23" sum="€1,25" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="4" type="23" sum="€3,75" player="Vegeode"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="5" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Alias007">X X</cards>
+   <action no="6" type="0" sum="€0" player="Alias007"/>
+   <cards type="Pocket" player="BRIII">X X</cards>
+   <action no="7" type="0" sum="€0" player="BRIII"/>
+   <cards type="Pocket" player="TillCosby">X X</cards>
+   <action no="8" type="0" sum="€0" player="TillCosby"/>
+   <action no="9" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>

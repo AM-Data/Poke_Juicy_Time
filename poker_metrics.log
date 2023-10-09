@@ -1,0 +1,24 @@
+2023-10-04 17:50:01,236 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-04 17:51:26,318 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-04 17:56:32,130 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-04 18:02:42,694 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-04 18:03:34,899 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-05 17:13:15,970 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-05 17:16:56,188 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-05 17:21:46,042 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-05 17:29:46,142 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-05 17:33:22,958 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-05 17:42:33,609 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-05 17:51:38,567 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-05 17:53:44,975 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-05 17:53:45,000 - WARNING - Finish Table player_stats does not exists, creating new one.
+2023-10-05 17:54:37,969 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-05 17:54:37,993 - WARNING - Finish Table player_stats does not exists, creating new one.
+2023-10-05 17:55:41,770 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-05 18:00:54,816 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-05 18:00:54,840 - WARNING - Finish Table player_stats does not exists, creating new one.
+2023-10-05 18:05:09,459 - WARNING - Table player_stats does not exists, creating new one.
+2023-10-09 10:34:37,546 - ERROR - Cannot load the table to the database. Error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'player_name' in 'field list'
+[SQL: INSERT INTO player_timestamps (player_name, hand_id, start_date, big_blind, n_active_players) VALUES (%(player_name)s, %(hand_id)s, %(start_date)s, %(big_blind)s, %(n_active_players)s)]
+[parameters: [{'player_name': 'Beton1', 'hand_id': '3818718933', 'start_date': '2023-10-07 12:05:43', 'big_blind': '1', 'n_active_players': 2}, {'player_name': 'lililillliillill', 'hand_id': '3818718933', 'start_date': '2023-10-07 12:05:43', 'big_blind': '1', 'n_active_players': 2}, {'player_name': 'Beton1', 'hand_id': '3818718952', 'start_date': '2023-10-07 12:05:51', 'big_blind': '1', 'n_active_players': 2}, {'player_name': 'lililillliillill', 'hand_id': '3818718952', 'start_date': '2023-10-07 12:05:51', 'big_blind': '1', 'n_active_players': 2}, {'player_name': 'Beton1', 'hand_id': '3818718965', 'start_date': '2023-10-07 12:05:56', 'big_blind': '1', 'n_active_players': 2}, {'player_name': 'lililillliillill', 'hand_id': '3818718965', 'start_date': '2023-10-07 12:05:56', 'big_blind': '1', 'n_active_players': 2}, {'player_name': 'Beton1', 'hand_id': '3818718978', 'start_date': '2023-10-07 12:06:04', 'big_blind': '1', 'n_active_players': 2}, {'player_name': 'lililillliillill', 'hand_id': '3818718978', 'start_date': '2023-10-07 12:06:04', 'big_blind': '1', 'n_active_players': 2}  ... displaying 10 of 23337 total bound parameter sets ...  {'player_name': 'PopFiSH', 'hand_id': '3819269712', 'start_date': '2023-10-08 22:26:04', 'big_blind': '0,50', 'n_active_players': 5}, {'player_name': '13245768', 'hand_id': '3819269712', 'start_date': '2023-10-08 22:26:04', 'big_blind': '0,50', 'n_active_players': 5}]]
+(Background on this error at: https://sqlalche.me/e/20/f405)

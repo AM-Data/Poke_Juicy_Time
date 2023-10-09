@@ -1,0 +1,2788 @@
+
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143376">
+  <general>
+   <startdate>2023-08-11 09:36:24</startdate>
+   <players>
+    <player dealer="0" bet="€30" seat="1" chips="€259,54" name="Player 1" win="€59,50"/>
+    <player dealer="1" bet="€30" seat="5" chips="€617,14" name="Player 5" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Player 5"/>
+   <action no="2" type="2" sum="€6" player="Player 1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 5">D2 D3</cards>
+   <action no="3" type="23" sum="€15" player="Player 5"/>
+   <cards type="Pocket" player="Player 1">D10 DA</cards>
+   <action no="4" type="23" sum="€30" player="Player 1"/>
+   <action no="5" type="3" sum="€15" player="Player 5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA HA SA</cards>
+   <action no="6" type="4" sum="€0" player="Player 1"/>
+   <action no="7" type="4" sum="€0" player="Player 5"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action no="8" type="4" sum="€0" player="Player 1"/>
+   <action no="9" type="4" sum="€0" player="Player 5"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action no="10" type="4" sum="€0" player="Player 1"/>
+   <action no="11" type="4" sum="€0" player="Player 5"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143435">
+  <general>
+   <startdate>2023-08-11 09:37:06</startdate>
+   <players>
+    <player dealer="1" bet="€53,70" seat="1" chips="€289,04" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€116,10" seat="5" chips="€600" name="Hiilinieluomg" win="€109,97"/>
+    <player dealer="0" bet="€6" seat="8" chips="€600" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="3" type="3" sum="€6" player="Niculai"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="23" sum="€24" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="lllllllIlllllllI">DK D3</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <action no="6" type="3" sum="€18" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 HJ CA</cards>
+   <action no="7" type="5" sum="€29,70" player="Hiilinieluomg"/>
+   <action no="8" type="3" sum="€29,70" player="Niculai"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action no="9" type="5" sum="€62,40" player="Hiilinieluomg"/>
+   <action no="10" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143464">
+  <general>
+   <startdate>2023-08-11 09:37:31</startdate>
+   <players>
+    <player dealer="0" bet="€18" seat="1" chips="€235,34" name="Niculai" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€656,27" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€48,60" seat="8" chips="€600" name="lllllllIlllllllI" win="€34,91"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Niculai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D6 C6</cards>
+   <action no="4" type="23" sum="€18" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="5" type="3" sum="€12" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 SJ H9</cards>
+   <action no="6" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="7" type="4" sum="€0" player="Niculai"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action no="8" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="9" type="4" sum="€0" player="Niculai"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action no="10" type="5" sum="€30,60" player="lllllllIlllllllI"/>
+   <action no="11" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143492">
+  <general>
+   <startdate>2023-08-11 09:37:56</startdate>
+   <players>
+    <player dealer="0" bet="€15" seat="1" chips="€217,34" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€6" seat="3" chips="€600" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€34,80" seat="5" chips="€656,27" name="Hiilinieluomg" win="€34,91"/>
+    <player dealer="1" bet="€0" seat="8" chips="€616,91" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="player12673839"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="23" sum="€15" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D10 C6</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="5" type="3" sum="€12" player="Niculai"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="6" type="0" sum="€0" player="player12673839"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 HK C7</cards>
+   <action no="7" type="4" sum="€0" player="Niculai"/>
+   <action no="8" type="4" sum="€0" player="Hiilinieluomg"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action no="9" type="4" sum="€0" player="Niculai"/>
+   <action no="10" type="5" sum="€19,80" player="Hiilinieluomg"/>
+   <action no="11" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143524">
+  <general>
+   <startdate>2023-08-11 09:38:19</startdate>
+   <players>
+    <player dealer="1" bet="€202,34" seat="1" chips="€202,34" name="Niculai" win="€39"/>
+    <player dealer="0" bet="€3" seat="3" chips="€600" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€6" seat="5" chips="€676,18" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€15" seat="8" chips="€616,91" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="player12673839"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">HQ D10</cards>
+   <action no="3" type="23" sum="€15" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="4" type="23" sum="€202,34" player="Niculai"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="5" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="6" type="0" sum="€0" player="Hiilinieluomg"/>
+   <action no="7" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143550">
+  <general>
+   <startdate>2023-08-11 09:38:42</startdate>
+   <players>
+    <player dealer="0" bet="€226,34" seat="1" chips="€226,34" name="Niculai" win="€69,82"/>
+    <player dealer="1" bet="€0" seat="3" chips="€600" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€24" seat="5" chips="€670,18" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€24" seat="8" chips="€601,91" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="3" type="3" sum="€6" player="Niculai"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="4" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="5" type="23" sum="€24" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="lllllllIlllllllI">H2 S2</cards>
+   <action no="6" type="3" sum="€18" player="lllllllIlllllllI"/>
+   <action no="7" type="3" sum="€18" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 D10 H9</cards>
+   <action no="8" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="9" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="10" type="5" sum="€202,34" player="Niculai"/>
+   <action no="11" type="0" sum="€0" player="Hiilinieluomg"/>
+   <action no="12" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143614">
+  <general>
+   <startdate>2023-08-11 09:39:28</startdate>
+   <players>
+    <player dealer="0" bet="€66" seat="1" chips="€272,16" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€0" seat="3" chips="€600" name="player12673839" win="€0"/>
+    <player dealer="1" bet="€646,18" seat="5" chips="€646,18" name="Hiilinieluomg" win="€198"/>
+    <player dealer="0" bet="€66" seat="8" chips="€600" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Niculai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="3" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="23" sum="€15" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="lllllllIlllllllI">HJ DK</cards>
+   <action no="5" type="23" sum="€66" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="6" type="3" sum="€60" player="Niculai"/>
+   <action no="7" type="23" sum="€646,18" player="Hiilinieluomg"/>
+   <action no="8" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <action no="9" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143652">
+  <general>
+   <startdate>2023-08-11 09:39:58</startdate>
+   <players>
+    <player dealer="0" bet="€206,16" seat="1" chips="€206,16" name="Niculai" win="€36"/>
+    <player dealer="0" bet="€6" seat="3" chips="€600" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€0" seat="5" chips="€778,18" name="Hiilinieluomg" win="€0"/>
+    <player dealer="1" bet="€15" seat="8" chips="€600" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="player12673839"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="lllllllIlllllllI">S7 S10</cards>
+   <action no="4" type="23" sum="€15" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="5" type="23" sum="€206,16" player="Niculai"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="6" type="0" sum="€0" player="player12673839"/>
+   <action no="7" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143674">
+  <general>
+   <startdate>2023-08-11 09:40:16</startdate>
+   <players>
+    <player dealer="1" bet="€227,16" seat="1" chips="€227,16" name="Niculai" win="€15"/>
+    <player dealer="0" bet="€3" seat="3" chips="€600" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€6" seat="5" chips="€778,18" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€0" seat="8" chips="€600" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="player12673839"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">C7 D4</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="4" type="23" sum="€227,16" player="Niculai"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="5" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="6" type="0" sum="€0" player="Hiilinieluomg"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143689">
+  <general>
+   <startdate>2023-08-11 09:40:27</startdate>
+   <players>
+    <player dealer="0" bet="€30" seat="1" chips="€236,16" name="Niculai" win="€14,55"/>
+    <player dealer="1" bet="€0" seat="3" chips="€600" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€3" seat="5" chips="€772,18" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€6" seat="8" chips="€600" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="3" type="3" sum="€6" player="Niculai"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="4" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="5" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D8 D6</cards>
+   <action no="6" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ D2 S4</cards>
+   <action no="7" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="8" type="5" sum="€24" player="Niculai"/>
+   <action no="9" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143734">
+  <general>
+   <startdate>2023-08-11 09:40:59</startdate>
+   <players>
+    <player dealer="0" bet="€87,30" seat="1" chips="€244,71" name="Niculai" win="€173,60"/>
+    <player dealer="0" bet="€87,30" seat="3" chips="€600" name="player12673839" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€769,18" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€3" seat="8" chips="€600" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Niculai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="player12673839">SA C8</cards>
+   <action no="3" type="23" sum="€15" player="player12673839"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="lllllllIlllllllI">HA C7</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Niculai">CJ C9</cards>
+   <action no="6" type="3" sum="€9" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ S8 SJ</cards>
+   <action no="7" type="4" sum="€0" player="Niculai"/>
+   <action no="8" type="4" sum="€0" player="player12673839"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action no="9" type="4" sum="€0" player="Niculai"/>
+   <action no="10" type="5" sum="€21,78" player="player12673839"/>
+   <action no="11" type="3" sum="€21,78" player="Niculai"/>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+   <action no="12" type="4" sum="€0" player="Niculai"/>
+   <action no="13" type="5" sum="€50,52" player="player12673839"/>
+   <action no="14" type="3" sum="€50,52" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143910">
+  <general>
+   <startdate>2023-08-11 09:41:31</startdate>
+   <players>
+    <player dealer="0" bet="€15" seat="1" chips="€331,01" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€6" seat="3" chips="€600" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€26,88" seat="5" chips="€769,18" name="Hiilinieluomg" win="€34,91"/>
+    <player dealer="1" bet="€0" seat="8" chips="€600" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="player12673839"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="23" sum="€15" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="lllllllIlllllllI">HJ S10</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="5" type="3" sum="€12" player="Niculai"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="6" type="0" sum="€0" player="player12673839"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 H5 SA</cards>
+   <action no="7" type="4" sum="€0" player="Niculai"/>
+   <action no="8" type="5" sum="€11,88" player="Hiilinieluomg"/>
+   <action no="9" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143937">
+  <general>
+   <startdate>2023-08-11 09:41:50</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="1" chips="€316,01" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€3" seat="3" chips="€600" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€6" seat="5" chips="€789,09" name="Hiilinieluomg" win="€6"/>
+    <player dealer="0" bet="€0" seat="8" chips="€600" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="player12673839"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <cards type="Pocket" player="lllllllIlllllllI">C3 CJ</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="4" type="0" sum="€0" player="Niculai"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="5" type="0" sum="€0" player="player12673839"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143954">
+  <general>
+   <startdate>2023-08-11 09:41:58</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="3" chips="€600" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€18" seat="5" chips="€792,09" name="Hiilinieluomg" win="€12"/>
+    <player dealer="0" bet="€6" seat="8" chips="€600" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="3" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="23" sum="€18" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="lllllllIlllllllI">SJ H2</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:06:47</duration>
+  <gamecount>15</gamecount>
+  <startdate>2023-08-11 09:36:24</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€273,60</bets>
+  <wins>€202,41</wins>
+  <chipsin>€594</chipsin>
+  <chipsout>€683,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802143968">
+  <general>
+   <startdate>2023-08-11 09:42:08</startdate>
+   <players>
+    <player dealer="0" bet="€84" seat="5" chips="€798,09" name="Hiilinieluomg" win="€0"/>
+    <player dealer="1" bet="€84" seat="8" chips="€600" name="lllllllIlllllllI" win="€167,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">S9 CA</cards>
+   <action no="3" type="23" sum="€15" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">SA S2</cards>
+   <action no="4" type="23" sum="€60" player="Hiilinieluomg"/>
+   <action no="5" type="3" sum="€45" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK DQ D9</cards>
+   <action no="6" type="5" sum="€24" player="Hiilinieluomg"/>
+   <action no="7" type="3" sum="€24" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action no="8" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="9" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">S6</cards>
+   <action no="10" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="11" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802145255">
+  <general>
+   <startdate>2023-08-11 09:46:12</startdate>
+   <players>
+    <player dealer="1" bet="€6" seat="1" chips="€274,01" name="Niculai" win="€11,64"/>
+    <player dealer="0" bet="€6" seat="5" chips="€755,59" name="Hiilinieluomg" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">C9 H9</cards>
+   <action no="3" type="3" sum="€3" player="Niculai"/>
+   <cards type="Pocket" player="Hiilinieluomg">CK S3</cards>
+   <action no="4" type="4" sum="€0" player="Hiilinieluomg"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 CQ CJ</cards>
+   <action no="5" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="6" type="4" sum="€0" player="Niculai"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action no="7" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="8" type="4" sum="€0" player="Niculai"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action no="9" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="10" type="4" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802145284">
+  <general>
+   <startdate>2023-08-11 09:46:35</startdate>
+   <players>
+    <player dealer="0" bet="€34,80" seat="1" chips="€279,65" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€6" seat="3" chips="€683,50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€34,80" seat="5" chips="€749,59" name="Hiilinieluomg" win="€73,31"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">D7 D10</cards>
+   <action no="3" type="23" sum="€15" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="Niculai">S6 S9</cards>
+   <action no="4" type="3" sum="€12" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">H6 C4</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 CQ H9</cards>
+   <action no="6" type="4" sum="€0" player="Niculai"/>
+   <action no="7" type="5" sum="€19,80" player="Hiilinieluomg"/>
+   <action no="8" type="3" sum="€19,80" player="Niculai"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action no="9" type="4" sum="€0" player="Niculai"/>
+   <action no="10" type="4" sum="€0" player="Hiilinieluomg"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action no="11" type="4" sum="€0" player="Niculai"/>
+   <action no="12" type="4" sum="€0" player="Hiilinieluomg"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802145324">
+  <general>
+   <startdate>2023-08-11 09:47:06</startdate>
+   <players>
+    <player dealer="1" bet="€24" seat="1" chips="€244,85" name="Niculai" win="€14,55"/>
+    <player dealer="0" bet="€3" seat="3" chips="€677,50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€6" seat="5" chips="€788,10" name="Hiilinieluomg" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="3" type="3" sum="€6" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">HQ D4</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="5" type="4" sum="€0" player="Hiilinieluomg"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 HJ C8</cards>
+   <action no="6" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="7" type="4" sum="€0" player="Niculai"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action no="8" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="9" type="4" sum="€0" player="Niculai"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action no="10" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="11" type="5" sum="€18" player="Niculai"/>
+   <action no="12" type="0" sum="€0" player="Hiilinieluomg"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802145362">
+  <general>
+   <startdate>2023-08-11 09:47:36</startdate>
+   <players>
+    <player dealer="0" bet="€15" seat="1" chips="€253,40" name="Niculai" win="€0"/>
+    <player dealer="1" bet="€15" seat="3" chips="€674,50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€39,78" seat="5" chips="€782,10" name="Hiilinieluomg" win="€43,64"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="Niculai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">C5 C3</cards>
+   <action no="3" type="23" sum="€15" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="3" sum="€12" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="5" type="3" sum="€9" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 H7 HQ</cards>
+   <action no="6" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="7" type="4" sum="€0" player="Niculai"/>
+   <action no="8" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action no="9" type="5" sum="€24,78" player="Hiilinieluomg"/>
+   <action no="10" type="0" sum="€0" player="Niculai"/>
+   <action no="11" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802145420">
+  <general>
+   <startdate>2023-08-11 09:48:13</startdate>
+   <players>
+    <player dealer="0" bet="€24" seat="1" chips="€238,40" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€24" seat="3" chips="€659,50" name="lllllllIlllllllI" win="€46,55"/>
+    <player dealer="1" bet="€0" seat="5" chips="€810,74" name="Hiilinieluomg" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="Niculai">C2 HA</cards>
+   <action no="4" type="3" sum="€3" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">SA D10</cards>
+   <action no="5" type="23" sum="€24" player="lllllllIlllllllI"/>
+   <action no="6" type="3" sum="€18" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ H8 S4</cards>
+   <action no="7" type="4" sum="€0" player="Niculai"/>
+   <action no="8" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action no="9" type="4" sum="€0" player="Niculai"/>
+   <action no="10" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">CJ</cards>
+   <action no="11" type="4" sum="€0" player="Niculai"/>
+   <action no="12" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802145462">
+  <general>
+   <startdate>2023-08-11 09:48:43</startdate>
+   <players>
+    <player dealer="1" bet="€214,40" seat="1" chips="€214,40" name="Niculai" win="€448,80"/>
+    <player dealer="0" bet="€682,05" seat="3" chips="€682,05" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€24" seat="5" chips="€810,74" name="Hiilinieluomg" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">D8 H8</cards>
+   <action no="3" type="3" sum="€6" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">HJ SJ</cards>
+   <action no="4" type="23" sum="€24" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="5" type="3" sum="€18" player="Hiilinieluomg"/>
+   <action no="6" type="23" sum="€214,40" player="Niculai"/>
+   <action no="7" type="23" sum="€682,05" player="lllllllIlllllllI"/>
+   <action no="8" type="0" sum="€0" player="Hiilinieluomg"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 H4 S5</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802145526">
+  <general>
+   <startdate>2023-08-11 09:49:28</startdate>
+   <players>
+    <player dealer="0" bet="€6" seat="1" chips="€448,80" name="Niculai" win="€6"/>
+    <player dealer="1" bet="€0" seat="3" chips="€600" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€3" seat="5" chips="€786,74" name="Hiilinieluomg" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="Niculai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <cards type="Pocket" player="lllllllIlllllllI">C8 HK</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="0" sum="€0" player="Hiilinieluomg"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802145542">
+  <general>
+   <startdate>2023-08-11 09:49:37</startdate>
+   <players>
+    <player dealer="0" bet="€24" seat="1" chips="€451,80" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€51,84" seat="3" chips="€600" name="lllllllIlllllllI" win="€46,55"/>
+    <player dealer="1" bet="€0" seat="5" chips="€783,74" name="Hiilinieluomg" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="4" type="3" sum="€3" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">SK HK</cards>
+   <action no="5" type="23" sum="€24" player="lllllllIlllllllI"/>
+   <action no="6" type="3" sum="€18" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 S7 D3</cards>
+   <action no="7" type="4" sum="€0" player="Niculai"/>
+   <action no="8" type="5" sum="€27,84" player="lllllllIlllllllI"/>
+   <action no="9" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802145584">
+  <general>
+   <startdate>2023-08-11 09:50:01</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="1" chips="€427,80" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€18" seat="3" chips="€622,55" name="lllllllIlllllllI" win="€12"/>
+    <player dealer="0" bet="€6" seat="5" chips="€783,74" name="Hiilinieluomg" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="3" type="0" sum="€0" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">H10 DA</cards>
+   <action no="4" type="23" sum="€18" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="5" type="0" sum="€0" player="Hiilinieluomg"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802145601">
+  <general>
+   <startdate>2023-08-11 09:50:11</startdate>
+   <players>
+    <player dealer="0" bet="€6" seat="1" chips="€427,80" name="Niculai" win="€0"/>
+    <player dealer="1" bet="€0" seat="3" chips="€628,55" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€18" seat="5" chips="€777,74" name="Hiilinieluomg" win="€12"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="Niculai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">H4 S2</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="23" sum="€18" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="5" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802145621">
+  <general>
+   <startdate>2023-08-11 09:50:25</startdate>
+   <players>
+    <player dealer="0" bet="€3" seat="1" chips="€421,80" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€274,86" seat="3" chips="€628,55" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€783,72" seat="5" chips="€783,74" name="Hiilinieluomg" win="€548,72"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="23" sum="€15" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="Niculai">H9 D5</cards>
+   <action no="4" type="0" sum="€0" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">CK CQ</cards>
+   <action no="5" type="23" sum="€66" player="lllllllIlllllllI"/>
+   <action no="6" type="23" sum="€139,50" player="Hiilinieluomg"/>
+   <action no="7" type="3" sum="€73,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 D9 SQ</cards>
+   <action no="8" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="9" type="5" sum="€56,40" player="Hiilinieluomg"/>
+   <action no="10" type="3" sum="€56,40" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action no="11" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="12" type="5" sum="€78,96" player="Hiilinieluomg"/>
+   <action no="13" type="3" sum="€78,96" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action no="14" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="15" type="5" sum="€508,86" player="Hiilinieluomg"/>
+   <action no="16" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802145790">
+  <general>
+   <startdate>2023-08-11 09:52:04</startdate>
+   <players>
+    <player dealer="1" bet="€30" seat="1" chips="€418,80" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€194,95" seat="3" chips="€600" name="lllllllIlllllllI" win="€415,90"/>
+    <player dealer="0" bet="€194,95" seat="5" chips="€1.057,60" name="Hiilinieluomg" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="3" type="3" sum="€6" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">CA DK</cards>
+   <action no="4" type="23" sum="€30" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">SA S2</cards>
+   <action no="5" type="3" sum="€24" player="Hiilinieluomg"/>
+   <action no="6" type="3" sum="€24" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 C6 HA</cards>
+   <action no="7" type="5" sum="€52,20" player="lllllllIlllllllI"/>
+   <action no="8" type="3" sum="€52,20" player="Hiilinieluomg"/>
+   <action no="9" type="0" sum="€0" player="Niculai"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action no="10" type="5" sum="€112,75" player="lllllllIlllllllI"/>
+   <action no="11" type="3" sum="€112,75" player="Hiilinieluomg"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action no="12" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="13" type="4" sum="€0" player="Hiilinieluomg"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802146946">
+  <general>
+   <startdate>2023-08-11 09:53:36</startdate>
+   <players>
+    <player dealer="0" bet="€15" seat="1" chips="€388,80" name="Niculai" win="€0"/>
+    <player dealer="1" bet="€34,14" seat="3" chips="€820,95" name="lllllllIlllllllI" win="€32"/>
+    <player dealer="0" bet="€3" seat="5" chips="€862,65" name="Hiilinieluomg" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="Niculai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">DK D8</cards>
+   <action no="3" type="23" sum="€15" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="5" type="3" sum="€9" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ H8 H3</cards>
+   <action no="6" type="4" sum="€0" player="Niculai"/>
+   <action no="7" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action no="8" type="4" sum="€0" player="Niculai"/>
+   <action no="9" type="5" sum="€19,14" player="lllllllIlllllllI"/>
+   <action no="10" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147131">
+  <general>
+   <startdate>2023-08-11 09:54:29</startdate>
+   <players>
+    <player dealer="0" bet="€18" seat="1" chips="€373,80" name="Niculai" win="€11,64"/>
+    <player dealer="0" bet="€6" seat="3" chips="€837,95" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€859,65" name="Hiilinieluomg" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="4" type="3" sum="€3" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">DK S3</cards>
+   <action no="5" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 CA C7</cards>
+   <action no="6" type="4" sum="€0" player="Niculai"/>
+   <action no="7" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action no="8" type="4" sum="€0" player="Niculai"/>
+   <action no="9" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action no="10" type="5" sum="€12" player="Niculai"/>
+   <action no="11" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147179">
+  <general>
+   <startdate>2023-08-11 09:54:59</startdate>
+   <players>
+    <player dealer="1" bet="€6" seat="1" chips="€379,44" name="Niculai" win="€14,55"/>
+    <player dealer="0" bet="€3" seat="3" chips="€831,95" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€6" seat="5" chips="€859,65" name="Hiilinieluomg" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">S10 C7</cards>
+   <action no="3" type="3" sum="€6" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D5 CA</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">DA H6</cards>
+   <action no="5" type="4" sum="€0" player="Hiilinieluomg"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 H7 HJ</cards>
+   <action no="6" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="7" type="4" sum="€0" player="Niculai"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action no="8" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="9" type="4" sum="€0" player="Niculai"/>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+   <action no="10" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="11" type="4" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147272">
+  <general>
+   <startdate>2023-08-11 09:55:55</startdate>
+   <players>
+    <player dealer="0" bet="€18" seat="1" chips="€387,99" name="Niculai" win="€0"/>
+    <player dealer="1" bet="€0" seat="3" chips="€828,95" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€37,80" seat="5" chips="€853,65" name="Hiilinieluomg" win="€34,91"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="Niculai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">D7 C4</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="23" sum="€18" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="5" type="3" sum="€12" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 DA DJ</cards>
+   <action no="6" type="5" sum="€19,80" player="Hiilinieluomg"/>
+   <action no="7" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147302">
+  <general>
+   <startdate>2023-08-11 09:56:09</startdate>
+   <players>
+    <player dealer="0" bet="€6" seat="1" chips="€369,99" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€6" seat="3" chips="€828,95" name="lllllllIlllllllI" win="€11,64"/>
+    <player dealer="1" bet="€0" seat="5" chips="€870,56" name="Hiilinieluomg" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="Niculai">HQ H6</cards>
+   <action no="4" type="3" sum="€3" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">C5 H5</cards>
+   <action no="5" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 DK S7</cards>
+   <action no="6" type="4" sum="€0" player="Niculai"/>
+   <action no="7" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action no="8" type="4" sum="€0" player="Niculai"/>
+   <action no="9" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action no="10" type="4" sum="€0" player="Niculai"/>
+   <action no="11" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147364">
+  <general>
+   <startdate>2023-08-11 09:56:46</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="1" chips="€363,99" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€3" seat="3" chips="€834,59" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€6" seat="5" chips="€870,56" name="Hiilinieluomg" win="€6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="3" type="0" sum="€0" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">C2 D9</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147380">
+  <general>
+   <startdate>2023-08-11 09:56:54</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€363,99" name="Niculai" win="€0"/>
+    <player dealer="1" bet="€15" seat="3" chips="€831,59" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€72" seat="5" chips="€873,56" name="Hiilinieluomg" win="€36"/>
+    <player dealer="0" bet="€6" seat="6" chips="€600" name="player12673839" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="player12673839"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="3" type="0" sum="€0" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">HK D9</cards>
+   <action no="4" type="23" sum="€15" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="5" type="23" sum="€72" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="6" type="0" sum="€0" player="player12673839"/>
+   <action no="7" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147418">
+  <general>
+   <startdate>2023-08-11 09:57:15</startdate>
+   <players>
+    <player dealer="0" bet="€6" seat="1" chips="€363,99" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€0" seat="3" chips="€816,59" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€15" seat="5" chips="€894,56" name="Hiilinieluomg" win="€15"/>
+    <player dealer="0" bet="€3" seat="6" chips="€600" name="player12673839" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="player12673839"/>
+   <action no="2" type="2" sum="€6" player="Niculai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">D10 C7</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="23" sum="€15" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="5" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="6" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147456">
+  <general>
+   <startdate>2023-08-11 09:57:37</startdate>
+   <players>
+    <player dealer="0" bet="€3" seat="1" chips="€357,99" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€6" seat="3" chips="€816,59" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€90,57" seat="5" chips="€903,56" name="Hiilinieluomg" win="€0"/>
+    <player dealer="1" bet="€360,57" seat="6" chips="€600" name="player12673839" win="€186,14"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="23" sum="€15" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="4" type="3" sum="€15" player="player12673839"/>
+   <cards type="Pocket" player="Niculai">S9 D2</cards>
+   <action no="5" type="0" sum="€0" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">DQ D3</cards>
+   <action no="6" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 H2 C6</cards>
+   <action no="7" type="5" sum="€21,48" player="Hiilinieluomg"/>
+   <action no="8" type="3" sum="€21,48" player="player12673839"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action no="9" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="10" type="5" sum="€54,09" player="player12673839"/>
+   <action no="11" type="3" sum="€54,09" player="Hiilinieluomg"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action no="12" type="4" sum="€0" player="Hiilinieluomg"/>
+   <action no="13" type="5" sum="€270" player="player12673839"/>
+   <action no="14" type="0" sum="€0" player="Hiilinieluomg"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147578">
+  <general>
+   <startdate>2023-08-11 09:58:48</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="1" chips="€354,99" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€3" seat="3" chips="€810,59" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€6" seat="5" chips="€812,99" name="Hiilinieluomg" win="€6"/>
+    <player dealer="0" bet="€0" seat="6" chips="€695,57" name="player12673839" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="3" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="4" type="0" sum="€0" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D2 S6</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147603">
+  <general>
+   <startdate>2023-08-11 09:58:59</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€354,99" name="Niculai" win="€0"/>
+    <player dealer="1" bet="€72" seat="3" chips="€807,59" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€121,50" seat="5" chips="€815,99" name="Hiilinieluomg" win="€146"/>
+    <player dealer="0" bet="€6" seat="6" chips="€695,57" name="player12673839" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="player12673839"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="3" type="0" sum="€0" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">S4 SA</cards>
+   <action no="4" type="23" sum="€15" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="5" type="23" sum="€72" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="6" type="0" sum="€0" player="player12673839"/>
+   <action no="7" type="3" sum="€57" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK S7 HQ</cards>
+   <action no="8" type="5" sum="€49,50" player="Hiilinieluomg"/>
+   <action no="9" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147670">
+  <general>
+   <startdate>2023-08-11 09:59:35</startdate>
+   <players>
+    <player dealer="0" bet="€15" seat="1" chips="€354,99" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€34,14" seat="3" chips="€735,59" name="lllllllIlllllllI" win="€32"/>
+    <player dealer="1" bet="€0" seat="5" chips="€889,99" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€3" seat="6" chips="€689,57" name="player12673839" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="player12673839"/>
+   <action no="2" type="2" sum="€6" player="Niculai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">S5 SK</cards>
+   <action no="3" type="23" sum="€15" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="5" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="6" type="3" sum="€9" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 H5 DJ</cards>
+   <action no="7" type="4" sum="€0" player="Niculai"/>
+   <action no="8" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action no="9" type="4" sum="€0" player="Niculai"/>
+   <action no="10" type="5" sum="€19,14" player="lllllllIlllllllI"/>
+   <action no="11" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147710">
+  <general>
+   <startdate>2023-08-11 09:59:58</startdate>
+   <players>
+    <player dealer="0" bet="€3" seat="1" chips="€339,99" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€6" seat="3" chips="€752,59" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0" seat="5" chips="€889,99" name="Hiilinieluomg" win="€0"/>
+    <player dealer="1" bet="€15" seat="6" chips="€686,57" name="player12673839" win="€15"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="4" type="23" sum="€15" player="player12673839"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="5" type="0" sum="€0" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">C7 C2</cards>
+   <action no="6" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147727">
+  <general>
+   <startdate>2023-08-11 10:00:07</startdate>
+   <players>
+    <player dealer="1" bet="€6" seat="1" chips="€336,99" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€30" seat="3" chips="€746,59" name="lllllllIlllllllI" win="€18"/>
+    <player dealer="0" bet="€6" seat="5" chips="€889,99" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€0" seat="6" chips="€695,57" name="player12673839" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="3" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="4" type="3" sum="€6" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">DA D7</cards>
+   <action no="5" type="23" sum="€30" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="6" type="0" sum="€0" player="Hiilinieluomg"/>
+   <action no="7" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147758">
+  <general>
+   <startdate>2023-08-11 10:00:25</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="3" chips="€758,59" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€18" seat="5" chips="€883,99" name="Hiilinieluomg" win="€12"/>
+    <player dealer="0" bet="€6" seat="6" chips="€695,57" name="player12673839" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="player12673839"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">D2 S4</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="23" sum="€18" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="5" type="0" sum="€0" player="player12673839"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147795">
+  <general>
+   <startdate>2023-08-11 10:00:43</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="3" chips="€758,59" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€85,20" seat="5" chips="€889,99" name="Hiilinieluomg" win="€169,40"/>
+    <player dealer="0" bet="€3" seat="6" chips="€689,57" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€85,20" seat="8" chips="€600" name="Herbertlustig" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="player12673839"/>
+   <action no="2" type="2" sum="€6" player="Herbertlustig"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">D5 D3</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">S4 S7</cards>
+   <action no="4" type="23" sum="€15" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="5" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Herbertlustig">D4 CA</cards>
+   <action no="6" type="3" sum="€9" player="Herbertlustig"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 H7 H6</cards>
+   <action no="7" type="4" sum="€0" player="Herbertlustig"/>
+   <action no="8" type="4" sum="€0" player="Hiilinieluomg"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action no="9" type="4" sum="€0" player="Herbertlustig"/>
+   <action no="10" type="5" sum="€18,18" player="Hiilinieluomg"/>
+   <action no="11" type="3" sum="€18,18" player="Herbertlustig"/>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+   <action no="12" type="4" sum="€0" player="Herbertlustig"/>
+   <action no="13" type="5" sum="€52,02" player="Hiilinieluomg"/>
+   <action no="14" type="3" sum="€52,02" player="Herbertlustig"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147909">
+  <general>
+   <startdate>2023-08-11 10:02:04</startdate>
+   <players>
+    <player dealer="0" bet="€140,89" seat="1" chips="€330,99" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€140,89" seat="3" chips="€758,59" name="lllllllIlllllllI" win="€280,78"/>
+    <player dealer="0" bet="€0" seat="5" chips="€974,19" name="Hiilinieluomg" win="€0"/>
+    <player dealer="1" bet="€0" seat="6" chips="€686,57" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€3" seat="8" chips="€600" name="Herbertlustig" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Herbertlustig"/>
+   <action no="2" type="2" sum="€6" player="Niculai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">D8 DQ</cards>
+   <action no="3" type="23" sum="€15" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="5" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Herbertlustig">X X</cards>
+   <action no="6" type="0" sum="€0" player="Herbertlustig"/>
+   <cards type="Pocket" player="Niculai">S6 D9</cards>
+   <action no="7" type="3" sum="€9" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK S9 D7</cards>
+   <action no="8" type="4" sum="€0" player="Niculai"/>
+   <action no="9" type="5" sum="€7,92" player="lllllllIlllllllI"/>
+   <action no="10" type="3" sum="€7,92" player="Niculai"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action no="11" type="4" sum="€0" player="Niculai"/>
+   <action no="12" type="5" sum="€28,32" player="lllllllIlllllllI"/>
+   <action no="13" type="3" sum="€28,32" player="Niculai"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action no="14" type="4" sum="€0" player="Niculai"/>
+   <action no="15" type="5" sum="€89,65" player="lllllllIlllllllI"/>
+   <action no="16" type="3" sum="€89,65" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802147977">
+  <general>
+   <startdate>2023-08-11 10:02:47</startdate>
+   <players>
+    <player dealer="0" bet="€48" seat="1" chips="€190,10" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€6" seat="3" chips="€898,48" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0" seat="5" chips="€974,19" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€48" seat="6" chips="€686,57" name="player12673839" win="€0"/>
+    <player dealer="1" bet="€93" seat="8" chips="€600" name="Herbertlustig" win="€146"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="4" type="23" sum="€15" player="player12673839"/>
+   <cards type="Pocket" player="Herbertlustig">X X</cards>
+   <action no="5" type="23" sum="€48" player="Herbertlustig"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="6" type="3" sum="€45" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">SK H5</cards>
+   <action no="7" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <action no="8" type="3" sum="€33" player="player12673839"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 CQ C3</cards>
+   <action no="9" type="4" sum="€0" player="Niculai"/>
+   <action no="10" type="4" sum="€0" player="player12673839"/>
+   <action no="11" type="5" sum="€45" player="Herbertlustig"/>
+   <action no="12" type="0" sum="€0" player="Niculai"/>
+   <action no="13" type="0" sum="€0" player="player12673839"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802148040">
+  <general>
+   <startdate>2023-08-11 10:03:24</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="1" chips="€142,10" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€3" seat="3" chips="€892,48" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€6" seat="5" chips="€974,19" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€15" seat="6" chips="€638,57" name="player12673839" win="€15"/>
+    <player dealer="0" bet="€0" seat="8" chips="€698" name="Herbertlustig" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€6" player="Hiilinieluomg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="3" type="23" sum="€15" player="player12673839"/>
+   <cards type="Pocket" player="Herbertlustig">X X</cards>
+   <action no="4" type="0" sum="€0" player="Herbertlustig"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="5" type="0" sum="€0" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">S9 S8</cards>
+   <action no="6" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="7" type="0" sum="€0" player="Hiilinieluomg"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802148064">
+  <general>
+   <startdate>2023-08-11 10:03:38</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€142,10" name="Niculai" win="€0"/>
+    <player dealer="1" bet="€0" seat="3" chips="€889,48" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€18" seat="5" chips="€968,19" name="Hiilinieluomg" win="€12"/>
+    <player dealer="0" bet="€6" seat="6" chips="€647,57" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€0" seat="8" chips="€698" name="Herbertlustig" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="player12673839"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Herbertlustig">X X</cards>
+   <action no="3" type="0" sum="€0" player="Herbertlustig"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="4" type="0" sum="€0" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D6 CJ</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="6" type="23" sum="€18" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="7" type="0" sum="€0" player="player12673839"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802148093">
+  <general>
+   <startdate>2023-08-11 10:03:59</startdate>
+   <players>
+    <player dealer="0" bet="€30" seat="1" chips="€142,10" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€0" seat="3" chips="€889,48" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€974,19" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€51,78" seat="6" chips="€641,57" name="player12673839" win="€64"/>
+    <player dealer="0" bet="€6" seat="8" chips="€698" name="Herbertlustig" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="player12673839"/>
+   <action no="2" type="2" sum="€6" player="Herbertlustig"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="3" type="3" sum="€6" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">S7 SQ</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="5" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="6" type="23" sum="€30" player="player12673839"/>
+   <cards type="Pocket" player="Herbertlustig">X X</cards>
+   <action no="7" type="0" sum="€0" player="Herbertlustig"/>
+   <action no="8" type="3" sum="€24" player="Niculai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 C2 HA</cards>
+   <action no="9" type="4" sum="€0" player="player12673839"/>
+   <action no="10" type="4" sum="€0" player="Niculai"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action no="11" type="5" sum="€21,78" player="player12673839"/>
+   <action no="12" type="0" sum="€0" player="Niculai"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802148177">
+  <general>
+   <startdate>2023-08-11 10:04:58</startdate>
+   <players>
+    <player dealer="0" bet="€112,10" seat="1" chips="€112,10" name="Niculai" win="€12"/>
+    <player dealer="0" bet="€0" seat="3" chips="€889,48" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0" seat="5" chips="€974,19" name="Hiilinieluomg" win="€0"/>
+    <player dealer="1" bet="€0" seat="6" chips="€675,57" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€6" seat="8" chips="€692" name="Herbertlustig" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Herbertlustig"/>
+   <action no="2" type="2" sum="€6" player="Niculai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">CA S6</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="5" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Herbertlustig">X X</cards>
+   <action no="6" type="3" sum="€3" player="Herbertlustig"/>
+   <cards type="Pocket" player="Niculai">X X</cards>
+   <action no="7" type="23" sum="€112,10" player="Niculai"/>
+   <action no="8" type="0" sum="€0" player="Herbertlustig"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802148248">
+  <general>
+   <startdate>2023-08-11 10:05:34</startdate>
+   <players>
+    <player dealer="0" bet="€118,10" seat="1" chips="€118,10" name="Niculai" win="€0"/>
+    <player dealer="0" bet="€118,10" seat="3" chips="€889,48" name="lllllllIlllllllI" win="€247,20"/>
+    <player dealer="0" bet="€0" seat="5" chips="€974,19" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€15" seat="6" chips="€675,57" name="player12673839" win="€0"/>
+    <player dealer="1" bet="€0" seat="8" chips="€686" name="Herbertlustig" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Niculai"/>
+   <action no="2" type="2" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="3" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="4" type="23" sum="€15" player="player12673839"/>
+   <cards type="Pocket" player="Herbertlustig">X X</cards>
+   <action no="5" type="0" sum="€0" player="Herbertlustig"/>
+   <cards type="Pocket" player="Niculai">SQ D5</cards>
+   <action no="6" type="3" sum="€12" player="Niculai"/>
+   <cards type="Pocket" player="lllllllIlllllllI">DQ D3</cards>
+   <action no="7" type="3" sum="€9" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 D10 D7</cards>
+   <action no="8" type="5" sum="€103,10" player="Niculai"/>
+   <action no="9" type="3" sum="€103,10" player="lllllllIlllllllI"/>
+   <action no="10" type="0" sum="€0" player="player12673839"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802148328">
+  <general>
+   <startdate>2023-08-11 10:06:27</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="3" chips="€1.018,58" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€3" seat="5" chips="€974,19" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€6" seat="6" chips="€660,57" name="player12673839" win="€6"/>
+    <player dealer="0" bet="€0" seat="8" chips="€686" name="Herbertlustig" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="Hiilinieluomg"/>
+   <action no="2" type="2" sum="€6" player="player12673839"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <cards type="Pocket" player="Herbertlustig">X X</cards>
+   <action no="3" type="0" sum="€0" player="Herbertlustig"/>
+   <cards type="Pocket" player="lllllllIlllllllI">C6 SJ</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="5" type="0" sum="€0" player="Hiilinieluomg"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €3/€6</gametype>
+  <tablename>100BB Graz 1, 488044820</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€3</smallblind>
+  <bigblind>€6</bigblind>
+  <duration>00:20:36</duration>
+  <gamecount>37</gamecount>
+  <startdate>2023-08-11 09:46:12</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€1.770,97</bets>
+  <wins>€1.157,62</wins>
+  <chipsin>€677,50</chipsin>
+  <chipsout>€1.027,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802148345">
+  <general>
+   <startdate>2023-08-11 10:06:36</startdate>
+   <players>
+    <player dealer="0" bet="€15" seat="3" chips="€1.018,58" name="lllllllIlllllllI" win="€15"/>
+    <player dealer="1" bet="€0" seat="5" chips="€971,19" name="Hiilinieluomg" win="€0"/>
+    <player dealer="0" bet="€3" seat="6" chips="€663,57" name="player12673839" win="€0"/>
+    <player dealer="0" bet="€6" seat="8" chips="€686" name="Herbertlustig" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€3" player="player12673839"/>
+   <action no="2" type="2" sum="€6" player="Herbertlustig"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">H9 D9</cards>
+   <action no="3" type="23" sum="€15" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Hiilinieluomg">X X</cards>
+   <action no="4" type="0" sum="€0" player="Hiilinieluomg"/>
+   <cards type="Pocket" player="player12673839">X X</cards>
+   <action no="5" type="0" sum="€0" player="player12673839"/>
+   <cards type="Pocket" player="Herbertlustig">X X</cards>
+   <action no="6" type="0" sum="€0" player="Herbertlustig"/>
+  </round>
+ </game></root>

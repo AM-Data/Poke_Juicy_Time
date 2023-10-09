@@ -1,0 +1,1147 @@
+
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802209171">
+  <general>
+   <startdate>2023-08-11 14:46:13</startdate>
+   <players>
+    <player dealer="0" bet="€2" seat="1" chips="€100" name="Habakuk89" win="€2"/>
+    <player dealer="1" bet="€1" seat="3" chips="€200" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€2" player="Habakuk89"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Habakuk89">X X</cards>
+   <cards type="Pocket" player="lllllllIlllllllI">D9 S4</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802209188">
+  <general>
+   <startdate>2023-08-11 14:46:21</startdate>
+   <players>
+    <player dealer="1" bet="€1" seat="1" chips="€101" name="Habakuk89" win="€0"/>
+    <player dealer="0" bet="€2" seat="3" chips="€200" name="lllllllIlllllllI" win="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="Habakuk89"/>
+   <action no="2" type="2" sum="€2" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">C6 S4</cards>
+   <cards type="Pocket" player="Habakuk89">X X</cards>
+   <action no="3" type="0" sum="€0" player="Habakuk89"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802209209">
+  <general>
+   <startdate>2023-08-11 14:46:29</startdate>
+   <players>
+    <player dealer="0" bet="€7,50" seat="1" chips="€100" name="Habakuk89" win="€0"/>
+    <player dealer="1" bet="€7,50" seat="3" chips="€201" name="lllllllIlllllllI" win="€14,55"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€2" player="Habakuk89"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">SJ H10</cards>
+   <action no="3" type="23" sum="€5" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Habakuk89">C7 D8</cards>
+   <action no="4" type="3" sum="€3" player="Habakuk89"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA H2 S10</cards>
+   <action no="5" type="4" sum="€0" player="Habakuk89"/>
+   <action no="6" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action no="7" type="5" sum="€2,50" player="Habakuk89"/>
+   <action no="8" type="3" sum="€2,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action no="9" type="4" sum="€0" player="Habakuk89"/>
+   <action no="10" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802209305">
+  <general>
+   <startdate>2023-08-11 14:47:12</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="1" chips="€92,50" name="Habakuk89" win="€0"/>
+    <player dealer="0" bet="€1" seat="3" chips="€208,05" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€2" seat="5" chips="€200" name="BCeMHe" win="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€2" player="BCeMHe"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BCeMHe">X X</cards>
+   <cards type="Pocket" player="Habakuk89">X X</cards>
+   <action no="3" type="0" sum="€0" player="Habakuk89"/>
+   <cards type="Pocket" player="lllllllIlllllllI">SQ C2</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802209319">
+  <general>
+   <startdate>2023-08-11 14:47:17</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€92,50" name="Habakuk89" win="€0"/>
+    <player dealer="1" bet="€31,57" seat="3" chips="€207,05" name="lllllllIlllllllI" win="€23,04"/>
+    <player dealer="0" bet="€1" seat="5" chips="€201" name="BCeMHe" win="€0"/>
+    <player dealer="0" bet="€11,38" seat="6" chips="€200" name="Grauburgunder" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="BCeMHe"/>
+   <action no="2" type="2" sum="€2" player="Grauburgunder"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Habakuk89">X X</cards>
+   <action no="3" type="0" sum="€0" player="Habakuk89"/>
+   <cards type="Pocket" player="lllllllIlllllllI">SQ S7</cards>
+   <action no="4" type="23" sum="€5" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="BCeMHe">X X</cards>
+   <action no="5" type="0" sum="€0" player="BCeMHe"/>
+   <cards type="Pocket" player="Grauburgunder">X X</cards>
+   <action no="6" type="3" sum="€3" player="Grauburgunder"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 C7 HK</cards>
+   <action no="7" type="4" sum="€0" player="Grauburgunder"/>
+   <action no="8" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action no="9" type="4" sum="€0" player="Grauburgunder"/>
+   <action no="10" type="5" sum="€6,38" player="lllllllIlllllllI"/>
+   <action no="11" type="3" sum="€6,38" player="Grauburgunder"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action no="12" type="4" sum="€0" player="Grauburgunder"/>
+   <action no="13" type="5" sum="€20,19" player="lllllllIlllllllI"/>
+   <action no="14" type="0" sum="€0" player="Grauburgunder"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802209504">
+  <general>
+   <startdate>2023-08-11 14:48:34</startdate>
+   <players>
+    <player dealer="0" bet="€9,50" seat="1" chips="€92,50" name="Habakuk89" win="€0"/>
+    <player dealer="0" bet="€0" seat="3" chips="€218,71" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€200" name="BCeMHe" win="€0"/>
+    <player dealer="0" bet="€1" seat="6" chips="€200" name="Grauburgunder" win="€0"/>
+    <player dealer="0" bet="€14,50" seat="10" chips="€200" name="GWValueTown" win="€19,40"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="Grauburgunder"/>
+   <action no="2" type="2" sum="€2" player="GWValueTown"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Habakuk89">X X</cards>
+   <action no="3" type="23" sum="€4,50" player="Habakuk89"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D2 S5</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="BCeMHe">X X</cards>
+   <action no="5" type="0" sum="€0" player="BCeMHe"/>
+   <cards type="Pocket" player="Grauburgunder">X X</cards>
+   <action no="6" type="0" sum="€0" player="Grauburgunder"/>
+   <cards type="Pocket" player="GWValueTown">X X</cards>
+   <action no="7" type="3" sum="€2,50" player="GWValueTown"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 D6 H7</cards>
+   <action no="8" type="4" sum="€0" player="GWValueTown"/>
+   <action no="9" type="5" sum="€5" player="Habakuk89"/>
+   <action no="10" type="3" sum="€5" player="GWValueTown"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action no="11" type="4" sum="€0" player="GWValueTown"/>
+   <action no="12" type="4" sum="€0" player="Habakuk89"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action no="13" type="5" sum="€5" player="GWValueTown"/>
+   <action no="14" type="0" sum="€0" player="Habakuk89"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802209651">
+  <general>
+   <startdate>2023-08-11 14:49:34</startdate>
+   <players>
+    <player dealer="0" bet="€14,80" seat="1" chips="€83" name="Habakuk89" win="€9,80"/>
+    <player dealer="0" bet="€0" seat="3" chips="€218,71" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0" seat="5" chips="€200" name="BCeMHe" win="€0"/>
+    <player dealer="1" bet="€4,40" seat="6" chips="€200" name="Grauburgunder" win="€0"/>
+    <player dealer="0" bet="€1" seat="10" chips="€209,90" name="GWValueTown" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="GWValueTown"/>
+   <action no="2" type="2" sum="€2" player="Habakuk89"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">H5 DK</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="BCeMHe">X X</cards>
+   <action no="4" type="0" sum="€0" player="BCeMHe"/>
+   <cards type="Pocket" player="Grauburgunder">X X</cards>
+   <action no="5" type="23" sum="€4,40" player="Grauburgunder"/>
+   <cards type="Pocket" player="GWValueTown">X X</cards>
+   <action no="6" type="0" sum="€0" player="GWValueTown"/>
+   <cards type="Pocket" player="Habakuk89">X X</cards>
+   <action no="7" type="23" sum="€14,80" player="Habakuk89"/>
+   <action no="8" type="0" sum="€0" player="Grauburgunder"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802209706">
+  <general>
+   <startdate>2023-08-11 14:49:58</startdate>
+   <players>
+    <player dealer="0" bet="€1" seat="1" chips="€88,40" name="Habakuk89" win="€0"/>
+    <player dealer="0" bet="€2" seat="3" chips="€218,71" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0" seat="5" chips="€200" name="BCeMHe" win="€0"/>
+    <player dealer="0" bet="€5" seat="6" chips="€200" name="Grauburgunder" win="€5"/>
+    <player dealer="1" bet="€0" seat="10" chips="€208,90" name="GWValueTown" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="Habakuk89"/>
+   <action no="2" type="2" sum="€2" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BCeMHe">X X</cards>
+   <action no="3" type="0" sum="€0" player="BCeMHe"/>
+   <cards type="Pocket" player="Grauburgunder">X X</cards>
+   <action no="4" type="23" sum="€5" player="Grauburgunder"/>
+   <cards type="Pocket" player="GWValueTown">X X</cards>
+   <action no="5" type="0" sum="€0" player="GWValueTown"/>
+   <cards type="Pocket" player="Habakuk89">X X</cards>
+   <action no="6" type="0" sum="€0" player="Habakuk89"/>
+   <cards type="Pocket" player="lllllllIlllllllI">H8 D9</cards>
+   <action no="7" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802209765">
+  <general>
+   <startdate>2023-08-11 14:50:19</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="1" chips="€87,40" name="Habakuk89" win="€0"/>
+    <player dealer="0" bet="€1" seat="3" chips="€216,71" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€2" seat="5" chips="€200" name="BCeMHe" win="€2"/>
+    <player dealer="0" bet="€0" seat="6" chips="€203" name="Grauburgunder" win="€0"/>
+    <player dealer="0" bet="€0" seat="10" chips="€208,90" name="GWValueTown" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€2" player="BCeMHe"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BCeMHe">X X</cards>
+   <cards type="Pocket" player="Grauburgunder">X X</cards>
+   <action no="3" type="0" sum="€0" player="Grauburgunder"/>
+   <cards type="Pocket" player="GWValueTown">X X</cards>
+   <action no="4" type="0" sum="€0" player="GWValueTown"/>
+   <cards type="Pocket" player="Habakuk89">X X</cards>
+   <action no="5" type="0" sum="€0" player="Habakuk89"/>
+   <cards type="Pocket" player="lllllllIlllllllI">H2 S10</cards>
+   <action no="6" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802209800">
+  <general>
+   <startdate>2023-08-11 14:50:35</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€87,40" name="Habakuk89" win="€0"/>
+    <player dealer="1" bet="€5" seat="3" chips="€215,71" name="lllllllIlllllllI" win="€5"/>
+    <player dealer="0" bet="€1" seat="5" chips="€201" name="BCeMHe" win="€0"/>
+    <player dealer="0" bet="€2" seat="6" chips="€203" name="Grauburgunder" win="€0"/>
+    <player dealer="0" bet="€0" seat="10" chips="€208,90" name="GWValueTown" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="BCeMHe"/>
+   <action no="2" type="2" sum="€2" player="Grauburgunder"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="GWValueTown">X X</cards>
+   <action no="3" type="0" sum="€0" player="GWValueTown"/>
+   <cards type="Pocket" player="Habakuk89">X X</cards>
+   <action no="4" type="0" sum="€0" player="Habakuk89"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D6 D8</cards>
+   <action no="5" type="23" sum="€5" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="BCeMHe">X X</cards>
+   <action no="6" type="0" sum="€0" player="BCeMHe"/>
+   <cards type="Pocket" player="Grauburgunder">X X</cards>
+   <action no="7" type="0" sum="€0" player="Grauburgunder"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802209876">
+  <general>
+   <startdate>2023-08-11 14:51:04</startdate>
+   <players>
+    <player dealer="0" bet="€2" seat="1" chips="€87,40" name="Habakuk89" win="€0"/>
+    <player dealer="0" bet="€8" seat="3" chips="€218,71" name="lllllllIlllllllI" win="€7"/>
+    <player dealer="1" bet="€0" seat="5" chips="€200" name="BCeMHe" win="€0"/>
+    <player dealer="0" bet="€1" seat="6" chips="€201" name="Grauburgunder" win="€0"/>
+    <player dealer="0" bet="€2" seat="8" chips="€200" name="Hipp0s" win="€0"/>
+    <player dealer="0" bet="€0" seat="10" chips="€208,90" name="GWValueTown" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="Grauburgunder"/>
+   <action no="2" type="2" sum="€2" player="Hipp0s"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="GWValueTown">X X</cards>
+   <action no="3" type="0" sum="€0" player="GWValueTown"/>
+   <cards type="Pocket" player="Habakuk89">X X</cards>
+   <action no="4" type="3" sum="€2" player="Habakuk89"/>
+   <cards type="Pocket" player="lllllllIlllllllI">SJ S8</cards>
+   <action no="5" type="23" sum="€8" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="BCeMHe">X X</cards>
+   <action no="6" type="0" sum="€0" player="BCeMHe"/>
+   <cards type="Pocket" player="Grauburgunder">X X</cards>
+   <action no="7" type="0" sum="€0" player="Grauburgunder"/>
+   <cards type="Pocket" player="Hipp0s">X X</cards>
+   <action no="8" type="0" sum="€0" player="Hipp0s"/>
+   <action no="9" type="0" sum="€0" player="Habakuk89"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802210127">
+  <general>
+   <startdate>2023-08-11 14:51:43</startdate>
+   <players>
+    <player dealer="0" bet="€24" seat="1" chips="€85,40" name="Habakuk89" win="€0"/>
+    <player dealer="0" bet="€24" seat="3" chips="€223,71" name="lllllllIlllllllI" win="€49,46"/>
+    <player dealer="0" bet="€0" seat="5" chips="€200" name="BCeMHe" win="€0"/>
+    <player dealer="1" bet="€0" seat="6" chips="€200" name="Grauburgunder" win="€0"/>
+    <player dealer="0" bet="€1" seat="8" chips="€200" name="Hipp0s" win="€0"/>
+    <player dealer="0" bet="€2" seat="10" chips="€208,90" name="GWValueTown" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="Hipp0s"/>
+   <action no="2" type="2" sum="€2" player="GWValueTown"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Habakuk89">D9 DQ</cards>
+   <action no="3" type="23" sum="€5" player="Habakuk89"/>
+   <cards type="Pocket" player="lllllllIlllllllI">DA D8</cards>
+   <action no="4" type="23" sum="€14" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="BCeMHe">X X</cards>
+   <action no="5" type="0" sum="€0" player="BCeMHe"/>
+   <cards type="Pocket" player="Grauburgunder">X X</cards>
+   <action no="6" type="0" sum="€0" player="Grauburgunder"/>
+   <cards type="Pocket" player="Hipp0s">X X</cards>
+   <action no="7" type="0" sum="€0" player="Hipp0s"/>
+   <cards type="Pocket" player="GWValueTown">X X</cards>
+   <action no="8" type="0" sum="€0" player="GWValueTown"/>
+   <action no="9" type="3" sum="€9" player="Habakuk89"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK S3 SK</cards>
+   <action no="10" type="4" sum="€0" player="Habakuk89"/>
+   <action no="11" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action no="12" type="5" sum="€10" player="Habakuk89"/>
+   <action no="13" type="3" sum="€10" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action no="14" type="4" sum="€0" player="Habakuk89"/>
+   <action no="15" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:07:09</duration>
+  <gamecount>13</gamecount>
+  <startdate>2023-08-11 14:46:13</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€94,45</bets>
+  <wins>€111,72</wins>
+  <chipsin>€199</chipsin>
+  <chipsout>€254,84</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802211218">
+  <general>
+   <startdate>2023-08-11 14:52:47</startdate>
+   <players>
+    <player dealer="0" bet="€5" seat="1" chips="€61,40" name="Habakuk89" win="€0"/>
+    <player dealer="0" bet="€11,38" seat="3" chips="€249,17" name="lllllllIlllllllI" win="€10,67"/>
+    <player dealer="0" bet="€0" seat="5" chips="€200" name="BCeMHe" win="€0"/>
+    <player dealer="0" bet="€0" seat="6" chips="€200" name="Grauburgunder" win="€0"/>
+    <player dealer="1" bet="€0" seat="8" chips="€200" name="Hipp0s" win="€0"/>
+    <player dealer="0" bet="€1" seat="10" chips="€206,90" name="GWValueTown" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="GWValueTown"/>
+   <action no="2" type="2" sum="€2" player="Habakuk89"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">CA C4</cards>
+   <action no="3" type="23" sum="€5" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="BCeMHe">X X</cards>
+   <action no="4" type="0" sum="€0" player="BCeMHe"/>
+   <cards type="Pocket" player="Grauburgunder">X X</cards>
+   <action no="5" type="0" sum="€0" player="Grauburgunder"/>
+   <cards type="Pocket" player="Hipp0s">X X</cards>
+   <action no="6" type="0" sum="€0" player="Hipp0s"/>
+   <cards type="Pocket" player="GWValueTown">X X</cards>
+   <action no="7" type="0" sum="€0" player="GWValueTown"/>
+   <cards type="Pocket" player="Habakuk89">X X</cards>
+   <action no="8" type="3" sum="€3" player="Habakuk89"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA S2 D8</cards>
+   <action no="9" type="4" sum="€0" player="Habakuk89"/>
+   <action no="10" type="5" sum="€6,38" player="lllllllIlllllllI"/>
+   <action no="11" type="0" sum="€0" player="Habakuk89"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:04:03</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 19:55:56</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€42,74</bets>
+  <wins>€16,41</wins>
+  <chipsin>€208,45</chipsin>
+  <chipsout>€198</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802306440">
+  <general>
+   <startdate>2023-08-11 19:55:56</startdate>
+   <players>
+    <player dealer="0" bet="€14,40" seat="5" chips="€251,56" name="Player 5" win="€27,93"/>
+    <player dealer="0" bet="€14,40" seat="6" chips="€203" name="Player 6" win="€0"/>
+    <player dealer="1" bet="€0" seat="8" chips="€200" name="Player 8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="Player 5"/>
+   <action no="2" type="2" sum="€2" player="Player 6"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action no="3" type="0" sum="€0" player="Player 8"/>
+   <cards type="Pocket" player="Player 5">D9 C10</cards>
+   <action no="4" type="23" sum="€6" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">CJ H9</cards>
+   <action no="5" type="3" sum="€4" player="Player 6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA H10 S7</cards>
+   <action no="6" type="4" sum="€0" player="Player 5"/>
+   <action no="7" type="5" sum="€8,40" player="Player 6"/>
+   <action no="8" type="3" sum="€8,40" player="Player 5"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action no="9" type="4" sum="€0" player="Player 5"/>
+   <action no="10" type="4" sum="€0" player="Player 6"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action no="11" type="4" sum="€0" player="Player 5"/>
+   <action no="12" type="4" sum="€0" player="Player 6"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:04:03</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 19:55:56</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€42,74</bets>
+  <wins>€16,41</wins>
+  <chipsin>€208,45</chipsin>
+  <chipsout>€198</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802306556">
+  <general>
+   <startdate>2023-08-11 19:56:51</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="5" chips="€265,09" name="Player 5" win="€0"/>
+    <player dealer="0" bet="€1" seat="6" chips="€200" name="Player 6" win="€0"/>
+    <player dealer="0" bet="€2" seat="10" chips="€200" name="Player 10" win="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="Player 6"/>
+   <action no="2" type="2" sum="€2" player="Player 10"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action no="3" type="0" sum="€0" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action no="4" type="0" sum="€0" player="Player 6"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:04:03</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 19:55:56</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€42,74</bets>
+  <wins>€16,41</wins>
+  <chipsin>€208,45</chipsin>
+  <chipsout>€198</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802306578">
+  <general>
+   <startdate>2023-08-11 19:56:59</startdate>
+   <players>
+    <player dealer="0" bet="€16,36" seat="1" chips="€200" name="lllllllIlllllllI" win="€16,41"/>
+    <player dealer="0" bet="€7,96" seat="5" chips="€265,09" name="plotroad" win="€0"/>
+    <player dealer="1" bet="€0" seat="6" chips="€200" name="tidysaturn82" win="€0"/>
+    <player dealer="0" bet="€1" seat="10" chips="€201" name="lamTheDanger" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="lamTheDanger"/>
+   <action no="2" type="2" sum="€2" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="plotroad">X X</cards>
+   <action no="3" type="23" sum="€4,60" player="plotroad"/>
+   <cards type="Pocket" player="tidysaturn82">X X</cards>
+   <action no="4" type="0" sum="€0" player="tidysaturn82"/>
+   <cards type="Pocket" player="lamTheDanger">X X</cards>
+   <action no="5" type="0" sum="€0" player="lamTheDanger"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D7 D4</cards>
+   <action no="6" type="3" sum="€2,60" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 DA H3</cards>
+   <action no="7" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="8" type="5" sum="€3,36" player="plotroad"/>
+   <action no="9" type="23" sum="€11,76" player="lllllllIlllllllI"/>
+   <action no="10" type="0" sum="€0" player="plotroad"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:04:03</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 19:55:56</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€42,74</bets>
+  <wins>€16,41</wins>
+  <chipsin>€208,45</chipsin>
+  <chipsout>€198</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802306675">
+  <general>
+   <startdate>2023-08-11 19:57:42</startdate>
+   <players>
+    <player dealer="0" bet="€1" seat="1" chips="€208,45" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€2" seat="5" chips="€257,13" name="plotroad" win="€2"/>
+    <player dealer="0" bet="€0" seat="6" chips="€200" name="tidysaturn82" win="€0"/>
+    <player dealer="1" bet="€0" seat="10" chips="€200" name="lamTheDanger" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€2" player="plotroad"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="plotroad">X X</cards>
+   <cards type="Pocket" player="tidysaturn82">X X</cards>
+   <action no="3" type="0" sum="€0" player="tidysaturn82"/>
+   <cards type="Pocket" player="lamTheDanger">X X</cards>
+   <action no="4" type="0" sum="€0" player="lamTheDanger"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D7 C3</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:04:03</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 19:55:56</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€42,74</bets>
+  <wins>€16,41</wins>
+  <chipsin>€208,45</chipsin>
+  <chipsout>€198</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802306705">
+  <general>
+   <startdate>2023-08-11 19:57:55</startdate>
+   <players>
+    <player dealer="1" bet="€0" seat="1" chips="€207,45" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€1" seat="5" chips="€258,13" name="plotroad" win="€0"/>
+    <player dealer="0" bet="€2" seat="8" chips="€200" name="ViennaFolding" win="€0"/>
+    <player dealer="0" bet="€4,60" seat="10" chips="€200" name="lamTheDanger" win="€5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="plotroad"/>
+   <action no="2" type="2" sum="€2" player="ViennaFolding"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lamTheDanger">X X</cards>
+   <action no="3" type="23" sum="€4,60" player="lamTheDanger"/>
+   <cards type="Pocket" player="lllllllIlllllllI">CJ C5</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="plotroad">X X</cards>
+   <action no="5" type="0" sum="€0" player="plotroad"/>
+   <cards type="Pocket" player="ViennaFolding">X X</cards>
+   <action no="6" type="0" sum="€0" player="ViennaFolding"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:04:03</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 19:55:56</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€42,74</bets>
+  <wins>€16,41</wins>
+  <chipsin>€208,45</chipsin>
+  <chipsout>€198</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802306753">
+  <general>
+   <startdate>2023-08-11 19:58:12</startdate>
+   <players>
+    <player dealer="0" bet="€11,38" seat="1" chips="€207,45" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€11,38" seat="5" chips="€257,13" name="plotroad" win="€23,04"/>
+    <player dealer="0" bet="€1" seat="8" chips="€200" name="ViennaFolding" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="ViennaFolding"/>
+   <action no="2" type="2" sum="€2" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="plotroad">D9 C9</cards>
+   <action no="3" type="23" sum="€5" player="plotroad"/>
+   <cards type="Pocket" player="ViennaFolding">X X</cards>
+   <action no="4" type="0" sum="€0" player="ViennaFolding"/>
+   <cards type="Pocket" player="lllllllIlllllllI">S5 CA</cards>
+   <action no="5" type="3" sum="€3" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 D3 CQ</cards>
+   <action no="6" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="7" type="4" sum="€0" player="plotroad"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action no="8" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="9" type="4" sum="€0" player="plotroad"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action no="10" type="5" sum="€6,38" player="lllllllIlllllllI"/>
+   <action no="11" type="3" sum="€6,38" player="plotroad"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:04:03</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 19:55:56</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€42,74</bets>
+  <wins>€16,41</wins>
+  <chipsin>€208,45</chipsin>
+  <chipsout>€198</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802306857">
+  <general>
+   <startdate>2023-08-11 19:58:56</startdate>
+   <players>
+    <player dealer="0" bet="€1" seat="1" chips="€200" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€2" seat="5" chips="€268,79" name="plotroad" win="€2"/>
+    <player dealer="1" bet="€0" seat="8" chips="€200" name="ViennaFolding" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€2" player="plotroad"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="plotroad">X X</cards>
+   <cards type="Pocket" player="ViennaFolding">X X</cards>
+   <action no="3" type="0" sum="€0" player="ViennaFolding"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D5 C10</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:04:03</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 19:55:56</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€42,74</bets>
+  <wins>€16,41</wins>
+  <chipsin>€208,45</chipsin>
+  <chipsout>€198</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802306881">
+  <general>
+   <startdate>2023-08-11 19:59:05</startdate>
+   <players>
+    <player dealer="1" bet="€11" seat="1" chips="€200" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€11" seat="5" chips="€269,79" name="plotroad" win="€23,28"/>
+    <player dealer="0" bet="€2" seat="8" chips="€200" name="ViennaFolding" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="plotroad"/>
+   <action no="2" type="2" sum="€2" player="ViennaFolding"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">HA SQ</cards>
+   <action no="3" type="23" sum="€5" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="plotroad">H5 C5</cards>
+   <action no="4" type="3" sum="€4" player="plotroad"/>
+   <cards type="Pocket" player="ViennaFolding">X X</cards>
+   <action no="5" type="0" sum="€0" player="ViennaFolding"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 D7 C2</cards>
+   <action no="6" type="4" sum="€0" player="plotroad"/>
+   <action no="7" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action no="8" type="4" sum="€0" player="plotroad"/>
+   <action no="9" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action no="10" type="5" sum="€6" player="plotroad"/>
+   <action no="11" type="3" sum="€6" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €1/€2</gametype>
+  <tablename>100BB Linz 12, 488049791</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€1</smallblind>
+  <bigblind>€2</bigblind>
+  <duration>00:04:03</duration>
+  <gamecount>9</gamecount>
+  <startdate>2023-08-11 19:55:56</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€42,74</bets>
+  <wins>€16,41</wins>
+  <chipsin>€208,45</chipsin>
+  <chipsout>€198</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802306984">
+  <general>
+   <startdate>2023-08-11 19:59:44</startdate>
+   <players>
+    <player dealer="0" bet="€2" seat="1" chips="€200" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€5" seat="5" chips="€282,07" name="plotroad" win="€5"/>
+    <player dealer="0" bet="€1" seat="8" chips="€200" name="ViennaFolding" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€1" player="ViennaFolding"/>
+   <action no="2" type="2" sum="€2" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="plotroad">X X</cards>
+   <action no="3" type="23" sum="€5" player="plotroad"/>
+   <cards type="Pocket" player="ViennaFolding">X X</cards>
+   <action no="4" type="0" sum="€0" player="ViennaFolding"/>
+   <cards type="Pocket" player="lllllllIlllllllI">CA S3</cards>
+   <action no="5" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>

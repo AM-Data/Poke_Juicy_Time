@@ -1,0 +1,398 @@
+
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 17, 488050651</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:04:04</duration>
+  <gamecount>8</gamecount>
+  <startdate>2023-08-11 14:29:27</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€10,53</bets>
+  <wins>€1</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€46,94</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204596">
+  <general>
+   <startdate>2023-08-11 14:29:27</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="1" chips="€50" name="Vegeode" win="€0,50"/>
+    <player dealer="1" bet="€0,25" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€0,50" player="Vegeode"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <cards type="Pocket" player="lllllllIlllllllI">D2 C6</cards>
+   <action no="3" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 17, 488050651</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:04:04</duration>
+  <gamecount>8</gamecount>
+  <startdate>2023-08-11 14:29:27</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€10,53</bets>
+  <wins>€1</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€46,94</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204614">
+  <general>
+   <startdate>2023-08-11 14:29:35</startdate>
+   <players>
+    <player dealer="1" bet="€1,25" seat="1" chips="€50,25" name="Vegeode" win="€1"/>
+    <player dealer="0" bet="€0,50" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Vegeode"/>
+   <action no="2" type="2" sum="€0,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="3" type="23" sum="€1,25" player="Vegeode"/>
+   <cards type="Pocket" player="lllllllIlllllllI">C2 H8</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 17, 488050651</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:04:04</duration>
+  <gamecount>8</gamecount>
+  <startdate>2023-08-11 14:29:27</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€10,53</bets>
+  <wins>€1</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€46,94</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204640">
+  <general>
+   <startdate>2023-08-11 14:29:44</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" seat="1" chips="€50,75" name="Vegeode" win="€0"/>
+    <player dealer="1" bet="€1,25" seat="3" chips="€50" name="lllllllIlllllllI" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€0,50" player="Vegeode"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">SA H10</cards>
+   <action no="3" type="23" sum="€1,25" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="4" type="0" sum="€0" player="Vegeode"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 17, 488050651</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:04:04</duration>
+  <gamecount>8</gamecount>
+  <startdate>2023-08-11 14:29:27</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€10,53</bets>
+  <wins>€1</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€46,94</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204657">
+  <general>
+   <startdate>2023-08-11 14:29:53</startdate>
+   <players>
+    <player dealer="1" bet="€3,37" seat="1" chips="€50,25" name="Vegeode" win="€6,54"/>
+    <player dealer="0" bet="€3,37" seat="3" chips="€50,50" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Vegeode"/>
+   <action no="2" type="2" sum="€0,50" player="lllllllIlllllllI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vegeode">S4 CA</cards>
+   <action no="3" type="23" sum="€1,25" player="Vegeode"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D8 S10</cards>
+   <action no="4" type="3" sum="€0,75" player="lllllllIlllllllI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 HJ D9</cards>
+   <action no="5" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="6" type="4" sum="€0" player="Vegeode"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action no="7" type="5" sum="€2,12" player="lllllllIlllllllI"/>
+   <action no="8" type="3" sum="€2,12" player="Vegeode"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action no="9" type="4" sum="€0" player="lllllllIlllllllI"/>
+   <action no="10" type="4" sum="€0" player="Vegeode"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 17, 488050651</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:04:04</duration>
+  <gamecount>8</gamecount>
+  <startdate>2023-08-11 14:29:27</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€10,53</bets>
+  <wins>€1</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€46,94</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204784">
+  <general>
+   <startdate>2023-08-11 14:30:51</startdate>
+   <players>
+    <player dealer="0" bet="€7,03" seat="1" chips="€53,42" name="Vegeode" win="€3,59"/>
+    <player dealer="1" bet="€1,85" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€0,50" player="Vegeode"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">DQ D6</cards>
+   <action no="3" type="23" sum="€1,25" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="4" type="3" sum="€0,75" player="Vegeode"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 H3 S10</cards>
+   <action no="5" type="4" sum="€0" player="Vegeode"/>
+   <action no="6" type="5" sum="€0,60" player="lllllllIlllllllI"/>
+   <action no="7" type="3" sum="€0,60" player="Vegeode"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action no="8" type="4" sum="€0" player="Vegeode"/>
+   <action no="9" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action no="10" type="5" sum="€5,18" player="Vegeode"/>
+   <action no="11" type="0" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 17, 488050651</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:04:04</duration>
+  <gamecount>8</gamecount>
+  <startdate>2023-08-11 14:29:27</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€10,53</bets>
+  <wins>€1</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€46,94</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204891">
+  <general>
+   <startdate>2023-08-11 14:31:38</startdate>
+   <players>
+    <player dealer="1" bet="€1,25" seat="1" chips="€55,16" name="Vegeode" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€3,17" seat="5" chips="€50" name="Daedalos" win="€2,67"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="lllllllIlllllllI"/>
+   <action no="2" type="2" sum="€0,50" player="Daedalos"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="3" type="23" sum="€1,25" player="Vegeode"/>
+   <cards type="Pocket" player="lllllllIlllllllI">H7 H10</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Daedalos">X X</cards>
+   <action no="5" type="3" sum="€0,75" player="Daedalos"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK D3 D9</cards>
+   <action no="6" type="4" sum="€0" player="Daedalos"/>
+   <action no="7" type="4" sum="€0" player="Vegeode"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action no="8" type="5" sum="€1,92" player="Daedalos"/>
+   <action no="9" type="0" sum="€0" player="Vegeode"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 17, 488050651</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:04:04</duration>
+  <gamecount>8</gamecount>
+  <startdate>2023-08-11 14:29:27</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€10,53</bets>
+  <wins>€1</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€46,94</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204952">
+  <general>
+   <startdate>2023-08-11 14:32:06</startdate>
+   <players>
+    <player dealer="0" bet="€0" seat="1" chips="€53,91" name="Vegeode" win="€0"/>
+    <player dealer="1" bet="€0" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="5" chips="€51,42" name="Daedalos" win="€0"/>
+    <player dealer="0" bet="€0,50" seat="6" chips="€50" name="TodellaKuuma" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Daedalos"/>
+   <action no="2" type="2" sum="€0,50" player="TodellaKuuma"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <cards type="Pocket" player="Vegeode">X X</cards>
+   <action no="3" type="0" sum="€0" player="Vegeode"/>
+   <cards type="Pocket" player="lllllllIlllllllI">D6 S9</cards>
+   <action no="4" type="0" sum="€0" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Daedalos">X X</cards>
+   <action no="5" type="0" sum="€0" player="Daedalos"/>
+  </round>
+ </game></root>
+
+<root><general>
+  <client_version>23.3.1.7</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 17, 488050651</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:04:04</duration>
+  <gamecount>8</gamecount>
+  <startdate>2023-08-11 14:29:27</startdate>
+  <currency>EUR</currency>
+  <nickname>lllllllIlllllllI</nickname>
+  <bets>€10,53</bets>
+  <wins>€1</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€46,94</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general><game gamecode="3802204997">
+  <general>
+   <startdate>2023-08-11 14:32:25</startdate>
+   <players>
+    <player dealer="0" bet="€3,06" seat="1" chips="€53,91" name="Vegeode" win="€6,18"/>
+    <player dealer="0" bet="€3,06" seat="3" chips="€50" name="lllllllIlllllllI" win="€0"/>
+    <player dealer="1" bet="€0" seat="5" chips="€51,17" name="Daedalos" win="€0"/>
+    <player dealer="0" bet="€0,25" seat="6" chips="€50,25" name="TodellaKuuma" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="TodellaKuuma"/>
+   <action no="2" type="2" sum="€0,50" player="Vegeode"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="lllllllIlllllllI">SQ CA</cards>
+   <action no="3" type="23" sum="€1,25" player="lllllllIlllllllI"/>
+   <cards type="Pocket" player="Daedalos">X X</cards>
+   <action no="4" type="0" sum="€0" player="Daedalos"/>
+   <cards type="Pocket" player="TodellaKuuma">X X</cards>
+   <action no="5" type="0" sum="€0" player="TodellaKuuma"/>
+   <cards type="Pocket" player="Vegeode">C10 HK</cards>
+   <action no="6" type="3" sum="€0,75" player="Vegeode"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 SK S2</cards>
+   <action no="7" type="4" sum="€0" player="Vegeode"/>
+   <action no="8" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action no="9" type="5" sum="€1,81" player="Vegeode"/>
+   <action no="10" type="3" sum="€1,81" player="lllllllIlllllllI"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action no="11" type="4" sum="€0" player="Vegeode"/>
+   <action no="12" type="4" sum="€0" player="lllllllIlllllllI"/>
+  </round>
+ </game></root>
