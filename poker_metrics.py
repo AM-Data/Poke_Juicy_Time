@@ -81,8 +81,77 @@ class PokerMetrics:
         return f"SELECT pt.* FROM player_timestamps AS pt JOIN player_stats AS ps ON pt.player = ps.player " \
                f"WHERE {where_clause}"
 
+    def grouping_date_index_data(self, df, time_unit='day'):
+        # Kann man verbessern, wir haben bereits einen Dataframe mit big_winner und loooser gemeinsam und nichtmehr getrennt
+        # Die Berechnungen kann man dann auch mit der neuen Spalte ['winner_loser] durchführen und
+        # man muss nichtmehr getrennt die zwei DFs hier durchjagen.
+
+        time_units = {'day': df.index.day, 'hour': df.index.hour, 'weekday': df.index.weekday,
+                      'weekday_hour': [df.index.weekday, df.index.hour], 'monthly_hour': None}
+
+        df = df.copy()
+        if time_unit not in time_units:
+            raise ValueError(
+                f"{time_unit} is not a valid parameter for timeunit. \n Valid time units: {time_units.keys()}")
+
+        if not df.index.dtype == 'datetime64[ns]':
+            logger.warning("index is not datetime, set index to datetime...")
+            df['start_date'] = pd.to_datetime(df['start_date'])
+            df.set_index('start_date', inplace=True)
+
+        # adding time unit columns
+        df['weekday'] = df.index.day_name()
+        df['day'] = df.index.day
+        df['hour'] = df.index.hour
+        df['month'] = df.index.month
+        df['year'] = df.index.year
+
+        df_ret = None
+
+        if time_unit == 'monthly_hour':
+            df_test = df.copy()
+
+            # Function to calculate week number from a given date and the first Friday
+            def calculate_week_number(row):
+                first_friday_of_month = self._first_friday(row['year'], row['month'])
+                if row['day'] < first_friday_of_month:
+                    return 0  # This will be filtered out later
+                day_order = row['day'] - first_friday_of_month + 1
+                return (day_order - 1) // 7 + 1  # Week number starts from 1
+
+            df_test['week_number'] = df_test.apply(calculate_week_number, axis=1)
+
+            # Filter out the rows where the week_number is 0
+            # df_test = df_test[df_test['week_number'] > 0]
+
+            # Group by week number, weekday, and hour, then count the number of occurrences
+            grouped_df = df_test.groupby(['week_number', 'weekday', 'hour']).agg(
+                n_big_looser=('winner_looser', lambda x: (x == 'big_looser').sum()),
+                n_big_winner=('winner_looser', lambda x: (x == 'big_winner').sum())
+            ).reset_index()
+
+            # Create a new column combining week number and weekday for the heatmap y-axis
+            grouped_df['week_weekday'] = grouped_df['week_number'].astype(str) + ' ' + grouped_df['weekday']
+
+            # Order the df for first Weekday to last weekday for later to plot the heatmap with an order
+            ordered_weekdays = ["Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"]
+            grouped_df['weekday'] = pd.Categorical(grouped_df['weekday'], categories=ordered_weekdays, ordered=True)
+
+            grouped_df = grouped_df.sort_values(by=['week_number', 'weekday'])  # order by weeknumber and days
+            # grouped_df = grouped_df.sort_values(by=['weekday', 'week_number'])  # ordered by all weekdays and number
+
+            return grouped_df.set_index(['week_weekday', 'hour'])[['n_big_looser', 'n_big_winner']]
+
+        # grouping the data by time unit
+        df_ret = df.groupby(time_units[time_unit]).agg(
+            n_big_looser=('winner_looser', lambda x: (x == 'big_looser').sum()),
+            n_big_winner=('winner_looser', lambda x: (x == 'big_winner').sum()),
+        )
+
+        return df_ret
+
     def _get_big_looser_big_winner(self, time_unit):
-        # # define big_looser and winner
+        # define big_looser and winner
         big_looser = ['fish_low_sample', 'fish_passiv', 'semireg_passiv', 'fish_aggro']  # 'reg_passiv', 'reg_medium'   - Winrate ist ca. 2bb/100
         big_winner = ['semireg_aggro', 'reg_aggro']
 
@@ -93,18 +162,13 @@ class PokerMetrics:
             else ('big_winner' if x in big_winner else 'other'))
 
 
+        # try new df
+        df_new = self.grouping_date_index_data(df_cohort_timestamps, time_unit=time_unit)
 
-        # get the count of winner and looser
-        logger.info('Resample the data of big_winner and looser')
-        count_big_looser = self.grouping_date_index_data(df=df_cohort_timestamps[df_cohort_timestamps['winner_looser'] == 'big_looser'], time_unit=time_unit)
-        count_big_winner = self.grouping_date_index_data(df=df_cohort_timestamps[df_cohort_timestamps['winner_looser'] == 'big_winner'], time_unit=time_unit)
-        logger.info('Finish Resample the data of big_winner and looser')
+        df = df_new
 
-        # create a dataframe from big winner and looser, and calculate ratio
-        df = pd.concat([count_big_looser, count_big_winner], axis=1)
-        df.columns = ['big_looser', 'big_winner']
-        df['sum_observations'] = df['big_looser'] + df['big_winner']
-        df['ratio'] = df['big_looser'] / df['big_winner']  # the higher the ratio, the better
+        df['sum_observations'] = df['n_big_looser'] + df['n_big_winner']
+        df['ratio'] = df['n_big_looser'] / df['n_big_winner']  # the higher the ratio, the better
 
         return df
 
@@ -122,60 +186,7 @@ class PokerMetrics:
         first_day_of_month = calendar.weekday(year, month, 1)  # 0 is Monday, 1 is Tuesday, ..., 6 is Sunday
         return (4 - first_day_of_month + 7) % 7 + 1  # 4 is Friday
 
-    def grouping_date_index_data(self, df, time_unit='day'):
-        # Kann man verbessern, wir haben bereits einen Dataframe mit big_winner und loooser gemeinsam und nichtmehr getrennt
-        # Die Berechnungen kann man dann auch mit der neuen Spalte ['winner_loser] durchführen und
-        # man muss nichtmehr getrennt die zwei DFs hier durchjagen.
 
-        time_units = {'day': df.index.day, 'hour': df.index.hour, 'weekday': df.index.weekday,
-                      'weekday_hour': [df.index.weekday, df.index.hour], 'monthly_hour': None}
-        if time_unit not in time_units:
-            raise ValueError(
-                f"{time_unit} is not a valid parameter for timeunit. \n Valid time units: {time_units.keys()}")
-
-        if not df.index.dtype == 'datetime64[ns]':
-            logger.warning("index is not datetime, set index to datetime...")
-            df['start_date'] = pd.to_datetime(df['start_date'])
-            df.set_index('start_date', inplace=True)
-
-        if time_unit == 'monthly_hour':
-            df_test = df.copy()
-            df_test['weekday'] = df_test.index.day_name()
-            df_test['day'] = df_test.index.day
-            df_test['hour'] = df_test.index.hour
-            df_test['year'] = df_test.index.year
-            df_test['month'] = df_test.index.month
-
-            # Function to calculate week number from a given date and the first Friday
-            def calculate_week_number(row):
-                first_friday_of_month = self._first_friday(row['year'], row['month'])
-                if row['day'] < first_friday_of_month:
-                    return 0  # This will be filtered out later
-                day_order = row['day'] - first_friday_of_month + 1
-                return (day_order - 1) // 7 + 1  # Week number starts from 1
-
-            df_test['week_number'] = df_test.apply(calculate_week_number, axis=1)
-
-            # Filter out the rows where the week_number is 0
-            df_filtered = df_test[df_test['week_number'] >= 0]
-
-            # Group by week number, weekday, and hour, then count the number of occurrences
-            grouped_df = df_filtered.groupby(['week_number', 'weekday', 'hour']).size().reset_index(name='count')
-
-            # Create a new column combining week number and weekday for the heatmap y-axis
-            grouped_df['week_weekday'] = grouped_df['week_number'].astype(str) + ' ' + grouped_df['weekday']
-
-            # Order the df for first Weekday to last weekday for later to plot the heatmap with an order
-            ordered_weekdays = ["Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"]
-            grouped_df['weekday'] = pd.Categorical(grouped_df['weekday'], categories=ordered_weekdays, ordered=True)
-
-            grouped_df = grouped_df.sort_values(by=['week_number', 'weekday'])  # order by weeknumber and days
-            # grouped_df = grouped_df.sort_values(by=['weekday', 'week_number'])  # ordered by all weekdays and number
-
-            ret = grouped_df.set_index(['week_weekday', 'hour'])[['count']]
-            return ret
-
-        return df.groupby(time_units[time_unit]).count().iloc[:, 0]
 
     def plot_big_looser_big_winner_ratio(self, time_unit='day'):
         ####!!!!! in progress
@@ -186,12 +197,12 @@ class PokerMetrics:
         # plot the data
         fig = go.Figure()
         if time_unit == 'weekday_hour' or time_unit == 'monthly_hour':
-            df = df.rename_axis(['weekdays', 'hours'])
-            heatmap_data = df['ratio'].reset_index().pivot(columns='hours', index='weekdays', values='ratio').fillna(
+            df = df.rename_axis(['weekday', 'hours'])
+            heatmap_data = df['ratio'].reset_index().pivot(columns='hours', index='weekday', values='ratio').fillna(
                 0).round(2)
 
             # reindex the mothly_hour
-            preferred_index = df.reset_index()['weekdays'].unique()
+            preferred_index = df.reset_index()['weekday'].unique()
             if time_unit == 'monthly_hour':
                 heatmap_data = heatmap_data.reindex(preferred_index)
 
@@ -203,7 +214,7 @@ class PokerMetrics:
             )
 
             # adding custom data to be show in the popup
-            custom_data = df['sum_observations'].reset_index().pivot(columns='hours', index='weekdays',
+            custom_data = df['sum_observations'].reset_index().pivot(columns='hours', index='weekday',
                                                                      values='sum_observations').fillna(0).round(2)
             if time_unit == 'monthly_hour':
                 custom_data = custom_data.reindex(preferred_index)
@@ -212,12 +223,12 @@ class PokerMetrics:
                               hovertemplate="Hour: %{x}<br>Weekday: %{y}<br>Ratio: %{z}<br>Observations: %{customdata}")
 
             if time_unit == 'weekday_hour':
+                logger.info('Update the layout')
                 fig.update_layout(
                     yaxis=dict(tickvals=[0, 1, 2, 3, 4, 5, 6],
                                ticktext=['Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag',
                                          'Sonntag'])
                 )
-
         else:
             fig.add_trace(
                 go.Bar(x=df.index, y=df['ratio'], name='big_looser', text=df['sum_observations'], textposition='auto'))
@@ -596,7 +607,7 @@ class PokerMetrics:
             fig.show()
 
         if show_position_data:
-            vs_cohort = ['fish_aggro']
+            vs_cohort = ['reg_aggro']
             df = df[df['cohort'].isin(vs_cohort)]
 
             df_distance = df.groupby('seat_distance_to_hero', as_index=False).agg(
@@ -615,6 +626,5 @@ class PokerMetrics:
                 fig.show()
 
             print()
-            print(
-                f"Hero vs {vs_cohort}. Tablesize: {min_active_players}-{max_active_players}. Blinds: {self.min_bigblind, self.max_bigblind}")
+            print(f"Hero vs {vs_cohort}. Tablesize: {min_active_players}-{max_active_players}. Blinds: {self.min_bigblind, self.max_bigblind}")
             print(df_distance)
